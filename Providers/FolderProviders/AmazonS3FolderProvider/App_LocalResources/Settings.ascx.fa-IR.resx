@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccessDenied.ErrorMessage">
+    <value xml:space="preserve">Sie können keinen neuen Bucket mit den angegebenen Anmeldedaten erzeugen.</value>
+  </data>
+  <data name="BucketAlreadyExists.ErrorMessage">
+    <value xml:space="preserve">Der angefragte Bucket ist nicht verfügbar. Der Namensraum des Bucket wird für alle Benutzer des Systems gemeinsam verwendet. Bitte wählen Sie einen anderen Namen.</value>
+  </data>
+  <data name="CredentialsRequired.ErrorMessage">
+    <value xml:space="preserve">Bitte geben Sie Ihre Anmeldedaten an, bevor Sie die Bucket-Liste aktualisieren.</value>
+  </data>
+  <data name="InvalidBucketName.ErrorMessage">
+    <value xml:space="preserve">Der angegebene Bucket ist nicht gültig.</value>
+  </data>
+  <data name="InvalidCredentials.ErrorMessage">
+    <value xml:space="preserve">Bitte prüfen Sie die angegebenen AWS-Anmeldedaten.</value>
+  </data>
+  <data name="InvalidProtocol.ErrorMessage">
+    <value xml:space="preserve">Wenn der Bucket-Name einen Punkt enthält, müssen Sei das HTTP-Protokoll verwenden.</value>
+  </data>
+  <data name="ListBuckets.ErrorMessage">
+    <value xml:space="preserve">Beim Abruf der Liste der Buckets ist ein Fehler aufgetreten.</value>
+  </data>
+  <data name="MultipleFolderMappingsWithSameSettings.ErrorMessage">
+    <value xml:space="preserve">Es gibt eine andere Verzeichnisabbildung, die den selben Bucket verwendet. Bitte verwenden Sie einen anderen Bucket.</value>
+  </data>
+  <data name="NewBucket.ErrorMessage">
+    <value xml:space="preserve">Beim Erstellen des Bucket ist eine Fehler aufgetreten.</value>
+  </data>
+  <data name="NewBucket.Text">
+    <value xml:space="preserve">neuer Bucket</value>
+  </data>
+  <data name="plAccessKeyId.Help">
+    <value xml:space="preserve">Geben Sie den die ID des Zugriffsschlüssels an.</value>
+  </data>
+  <data name="plAccessKeyId.Text">
+    <value xml:space="preserve">AccessKeyId</value>
+  </data>
+  <data name="plBucketName.Help">
+    <value xml:space="preserve">Wählen Sie einen Bucket-Namen oder geben Sie einen neuen ein.</value>
+  </data>
+  <data name="plBucketName.Text">
+    <value xml:space="preserve">Bucket-Name</value>
+  </data>
+  <data name="plDirectLink.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, damit der Pfad für Dateien in diesem Ordner auf den realen Pfad zeigt, andernfalls wird LinkClick verwendet.</value>
+  </data>
+  <data name="plDirectLink.Text">
+    <value xml:space="preserve">Direkten Link verwenden</value>
+  </data>
+  <data name="plProtocol.Help">
+    <value xml:space="preserve">Wählen Sie das Kommunikationsprotokoll.</value>
+  </data>
+  <data name="plProtocol.Text">
+    <value xml:space="preserve">Kommunikationsprotokoll</value>
+  </data>
+  <data name="plSecretAccessKey.Help">
+    <value xml:space="preserve">Geben Sie den sicheren Zugriffsschlüssel an.</value>
+  </data>
+  <data name="plSecretAccessKey.Text">
+    <value xml:space="preserve">geheimer Zugangsschlüssel</value>
+  </data>
+  <data name="RefreshBucketList.Text">
+    <value xml:space="preserve">&lt;aktualisieren&gt;</value>
+  </data>
+  <data name="SelectBucket.Text">
+    <value xml:space="preserve">&lt;wählen Sie einen Bucket&gt;</value>
+  </data>
+  <data name="SelectExistingBucket.Text">
+    <value xml:space="preserve">Existierenden Bucket wählen</value>
+  </data>
+  <data name="TooManyBuckets.ErrorMessage">
+    <value xml:space="preserve">Sie haben versucht, mehr Buckets anzulegen als zugelassen.</value>
+  </data>
+  <data name="valAccessKeyId.ErrorMessage">
+    <value xml:space="preserve">Sie müssen die AccessKeyId angeben</value>
+  </data>
+  <data name="valBucketName.ErrorMessage">
+    <value xml:space="preserve">Sie müssen einen Namen für den Bucket eingeben</value>
+  </data>
+  <data name="valSecretAccessKey.ErrorMessage">
+    <value xml:space="preserve">Sie müssen den geheimen Zugangsschlüssel angeben.</value>
+  </data>
+</root>

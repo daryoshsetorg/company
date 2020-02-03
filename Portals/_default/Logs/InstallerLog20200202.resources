@@ -1,0 +1,392 @@
+02/02/2020 15:27:15 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep بررسی ساخت پوشهبررسی ساخت فایلبررسی حذف فایلبررسی حذف پوشه
+02/02/2020 15:27:15 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep بررسی تنظیمات IIS
+02/02/2020 15:27:15 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب اسکریپت پایگاه داده DotNetNuke.Schema
+02/02/2020 15:27:15 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\DotNetNuke.Schema.SqlDataProvider
+02/02/2020 15:27:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\DotNetNuke.Schema.SqlDataProvider
+02/02/2020 15:27:17 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب اسکریپت پایگاه داده DotNetNuke.Data
+02/02/2020 15:27:17 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\DotNetNuke.Data.SqlDataProvider
+02/02/2020 15:27:23 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\DotNetNuke.Data.SqlDataProvider
+02/02/2020 15:27:23 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب اسکریپت های پایگاه داده عضویت
+02/02/2020 15:27:23 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallMemberRoleProvider
+02/02/2020 15:27:23 [INFO] DotNetNuke.Services.Upgrade.Upgrade End InstallMemberRoleProvider
+02/02/2020 15:27:23 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 08.00.04.01
+02/02/2020 15:27:23 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+02/02/2020 15:27:23 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\08.00.04.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.00.00
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.00.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.00.00.01
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.00.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.00.01
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.00.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.01.00
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.01.00.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.01.01
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+02/02/2020 15:27:24 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.01.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.02.00
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.00.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.02.01
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.02.02
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.02.02.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.03.00
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.03.00.01
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.03.00.02
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.00.02.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.03.01
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.01.SqlDataProvider
+02/02/2020 15:27:25 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.03.02
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.03.02.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.04.00
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.04.00.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep اعمال اسکریپت ارتقاء 09.04.01
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade End ExecuteScript:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpgradeVersion:D:\FaratechDp\Projects\DnnTest\Providers\DataProviders\SqlDataProvider\09.04.01.SqlDataProvider
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 8.0.4.1
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 8.0.4
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.0.0
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.0.0
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.0.0.1
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.0.0
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.0.1
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.0.1
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.1.0
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.1.0
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Host Settings
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Site Management
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Schedule
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Superuser Accounts
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Extensions
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Device Detection Management
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//Extensions
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SiteSettings
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SecurityRoles
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//Taxonomy
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SiteRedirectionManagement
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//DevicePreviewManagement
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SearchAdmin
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.MobileManagement Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Modules.PreviewProfileManagement Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.WebServer Type:DashboardControl Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Database Type:DashboardControl Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Host Type:DashboardControl Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Portals Type:DashboardControl Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Modules Type:DashboardControl Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard.Skins Type:DashboardControl Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.HostSettings Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Languages Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Lists Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.LogViewer Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.RecycleBin Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Sitemap Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.SiteWizard Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:Dnn.Themes Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Tabs Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Portals Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Scheduler Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.SearchAdmin Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.SQL Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Extensions Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Configuration Manager Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Dashboard Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Google Analytics Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:DotNetNuke.Taxonomy Type:Module Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:UrlManagement Type:Library Version:
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.1.1
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.1.1
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.2.0
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.2.0
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//SearchEngineSiteMap
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//Solutions
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//BulkEmail
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Marketplace
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Module Definitions
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:Portals
+02/02/2020 15:27:26 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:Superuser Accounts
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:Superuser Accounts
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:15
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:15
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.2.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.2.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:jQuery Type:Javascript_Library Version:1.9.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:jQuery-UI Type:Javascript_Library Version:1.11.3
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Uninstallation of Package:jQuery-Migrate Type:Javascript_Library Version:1.2.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.2.2
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.2.2
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.3.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.3.0.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.3.0.2
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.3.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.3.2
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.3.2
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.4.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه به نسخه 9.4.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start Application Upgrades: 9.4.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 8.0.4.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:08.00.04.01
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:8.0.4
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:8.0.4
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:08.00.04.01
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.0.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.00.00
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.0.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.0.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.00.00
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.0.0.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.00.00.01
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.0.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.0.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.00.00.01
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.0.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.00.01
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.0.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Installer.XmlMerge Target File dotnetnuke.config doesn't exist, ignore the merge process
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.0.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.00.01
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.1.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.01.00
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.1.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.1.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.01.00
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.1.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.01.01
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.1.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.1.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.01.01
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.2.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.02.00
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.2.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.2.0
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.02.00
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.2.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.02.01
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.2.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.2.1
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.02.01
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.2.2
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.02.02
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.2.2
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.2.2
+02/02/2020 15:27:27 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.02.02
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.3.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.00
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.00
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.3.0.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.00.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.00.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.3.0.2
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.00.02
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.00.02
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.3.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.3.2
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.03.02
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.3.2
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.3.2
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.03.02
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.4.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.00
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=targetFramework
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateAttribute:attributeName=targetFramework
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.00
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep به‌روزرسانی کانفیگ برای 9.4.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:09.04.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start UpdateConfig:9.4.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:9.4.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade End UpdateConfig:09.04.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 8.0.4.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:08.00.04.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.0.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.00.00
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.0.0.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.00.00.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.0.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.00.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.1.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.01.00
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.1.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.01.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.2.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.02.00
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.2.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.02.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.2.2
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.02.02
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.3.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.00
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.3.0.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.00.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.3.0.2
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.00.02
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.3.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.3.2
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.03.02
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.4.0
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.00
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep حذف فایل های قدیمی برای 9.4.1
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start DeleteFiles:09.04.01
+02/02/2020 15:27:28 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ارتقاء برنامه
+02/02/2020 15:27:29 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DDRMenu_09.04.01_Install.zip
+02/02/2020 15:27:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DDRMenu_09.04.01_Install.zip
+02/02/2020 15:27:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:29 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Library - Dnn.EditBar.UI_09.04.01_Install.zip
+02/02/2020 15:27:29 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\Dnn.EditBar.UI_09.04.01_Install.zip
+02/02/2020 15:27:29 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:30 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Library - Dnn.PersonaBar.UI_09.04.01_Install.zip
+02/02/2020 15:27:30 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\Dnn.PersonaBar.UI_09.04.01_Install.zip
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Installer.XmlMerge Start AddNode:
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Library - DNNCE_01_Web.Deprecated_09.04.01_Install.zip
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_01_Web.Deprecated_09.04.01_Install.zip
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Connector - DNNCE_AzureConnector_09.04.01_Install.zip
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_AzureConnector_09.04.01_Install.zip
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DNNCE_Console_09.04.01_Install.zip
+02/02/2020 15:27:33 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_Console_09.04.01_Install.zip
+02/02/2020 15:27:34 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DNNCE_CoreMessaging_09.04.01_Install.zip
+02/02/2020 15:27:34 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_CoreMessaging_09.04.01_Install.zip
+02/02/2020 15:27:35 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DNNCE_DigitalAssetsManagement_09.04.01_Install.zip
+02/02/2020 15:27:35 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_DigitalAssetsManagement_09.04.01_Install.zip
+02/02/2020 15:27:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DNNCE_HTML_09.04.01_Install.zip
+02/02/2020 15:27:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_HTML_09.04.01_Install.zip
+02/02/2020 15:27:36 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DNNCE_HtmlEditorManager_09.04.01_Install.zip
+02/02/2020 15:27:36 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_HtmlEditorManager_09.04.01_Install.zip
+02/02/2020 15:27:37 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DNNCE_Journal_09.04.01_Install.zip
+02/02/2020 15:27:37 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_Journal_09.04.01_Install.zip
+02/02/2020 15:27:37 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DNNCE_MemberDirectory_09.04.01_Install.zip
+02/02/2020 15:27:37 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_MemberDirectory_09.04.01_Install.zip
+02/02/2020 15:27:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DNNCE_ModuleCreator_09.04.01_Install.zip
+02/02/2020 15:27:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_ModuleCreator_09.04.01_Install.zip
+02/02/2020 15:27:38 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DNNCE_RazorHost_09.04.01_Install.zip
+02/02/2020 15:27:38 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_RazorHost_09.04.01_Install.zip
+02/02/2020 15:27:39 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Library - DNNCE_SiteExportImport_09.04.01_Install.zip
+02/02/2020 15:27:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_SiteExportImport_09.04.01_Install.zip
+02/02/2020 15:27:40 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Module - DNNCE_SocialGroups_09.04.01_Install.zip
+02/02/2020 15:27:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\DNNCE_SocialGroups_09.04.01_Install.zip
+02/02/2020 15:27:40 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Connector - GoogleAnalyticsConnector_09.04.01_Install.zip
+02/02/2020 15:27:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\GoogleAnalyticsConnector_09.04.01_Install.zip
+02/02/2020 15:27:40 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Library - Newtonsoft.Json_10.00.03_Install.zip
+02/02/2020 15:27:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\Newtonsoft.Json_10.00.03_Install.zip
+02/02/2020 15:27:40 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Library - Telerik_09.02.01_Install.zip
+02/02/2020 15:27:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\Telerik_09.02.01_Install.zip
+02/02/2020 15:27:42 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:42 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:42 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:42 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Skin - Skin_Xcillion_02.00.00_Install.zip
+02/02/2020 15:27:42 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Skin\Skin_Xcillion_02.00.00_Install.zip
+02/02/2020 15:27:43 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب JavaScript_Library - jQuery.zip
+02/02/2020 15:27:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\JavaScriptLibrary\jQuery.zip
+02/02/2020 15:27:43 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب JavaScript_Library - Knockout.zip
+02/02/2020 15:27:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\JavaScriptLibrary\Knockout.zip
+02/02/2020 15:27:43 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب JavaScript_Library - Selectize.zip
+02/02/2020 15:27:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\JavaScriptLibrary\Selectize.zip
+02/02/2020 15:27:43 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Provider - AspNetClientCapabilityProvider_09.04.01_Install.zip
+02/02/2020 15:27:43 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Provider\AspNetClientCapabilityProvider_09.04.01_Install.zip
+02/02/2020 15:27:44 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:44 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:44 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Provider - DNNCE_FolderProviders_09.04.01_Install.zip
+02/02/2020 15:27:44 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Provider\DNNCE_FolderProviders_09.04.01_Install.zip
+02/02/2020 15:27:44 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:44 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب Provider - DNNConnect.CKEditorProvider_01.00.07_Install.zip
+02/02/2020 15:27:44 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Provider\DNNConnect.CKEditorProvider_01.00.07_Install.zip
+02/02/2020 15:27:51 [INFO] DotNetNuke.Services.Installer.XmlMerge Start UpdateNode: keyAttribute=name
+02/02/2020 15:27:51 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب PersonaBar - Dnn.PersonaBar.Extensions_09.04.01_Install.zip
+02/02/2020 15:27:51 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\Module\Dnn.PersonaBar.Extensions_09.04.01_Install.zip
+02/02/2020 15:27:54 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب JavaScript_Library - jQueryMigrate.zip
+02/02/2020 15:27:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\JavaScriptLibrary\jQueryMigrate.zip
+02/02/2020 15:27:54 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب JavaScript_Library - jQueryUI.zip
+02/02/2020 15:27:54 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\JavaScriptLibrary\jQueryUI.zip
+02/02/2020 15:27:55 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep نصب JavaScript_Library - KnockoutMapping.zip
+02/02/2020 15:27:55 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\JavaScriptLibrary\KnockoutMapping.zip
+02/02/2020 15:27:55 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep مقدار دهی اولیه تنظیمات میزبان
+02/02/2020 15:27:58 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ساختن سایت [Fartav]
+02/02/2020 15:27:58 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start InstallPackage:D:\FaratechDp\Projects\DnnTest\Install\language\installlanguage.resources
+02/02/2020 15:28:04 [INFO] DotNetNuke.Services.Upgrade.Upgrade ابتداCreateUserInfo:host
+02/02/2020 15:28:10 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ساخت مدیر ارشد
+02/02/2020 15:28:10 [INFO] DotNetNuke.Services.Upgrade.Internals.Steps.BaseInstallationStep ساختن مدیر ارشدhost
+02/02/2020 15:29:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:File Management
+02/02/2020 15:29:39 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:File Management
+02/02/2020 15:29:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:115
+02/02/2020 15:29:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:115
+02/02/2020 15:29:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddAdminPage:File Management
+02/02/2020 15:29:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:View
+02/02/2020 15:29:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPagePermission:Edit
+02/02/2020 15:29:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:File Management
+02/02/2020 15:29:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:115
+02/02/2020 15:29:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:115
+02/02/2020 15:29:40 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveHostPage:File Manager
+02/02/2020 15:29:41 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveAdminPages://Admin//FileManager
+02/02/2020 15:29:41 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddHostPage:HTML Editor Manager
+02/02/2020 15:29:41 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddPage:HTML Editor Manager
+02/02/2020 15:29:41 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start RemoveModule:RadEditor Manager
+02/02/2020 15:29:41 [INFO] DotNetNuke.Services.Upgrade.Upgrade Start AddModuleToPage:117
+02/02/2020 15:29:41 [INFO] DotNetNuke.Services.Upgrade.Upgrade End AddModuleToPage:117

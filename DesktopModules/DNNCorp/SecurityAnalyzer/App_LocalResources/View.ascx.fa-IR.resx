@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema_Localized Dnnplus.ir 2018 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AuditChecks.Text" xml:space="preserve">
+    <value>ممیزی</value>
+  </data>
+  <data name="SuperuserActivity.Text" xml:space="preserve">
+    <value>فعالیت مدیر ارشد</value>
+  </data>
+  <data name="CheckDebugFailure.Text" xml:space="preserve">
+    <value>وضعیت عیب‌یابی فعال است - ویرایش فایل web.config و تغییر وضعیت آن به false در نظر داشته باشید (می‌توانید این کار را با مدیرپیکربندی نیز انجام دهید)</value>
+  </data>
+  <data name="CheckDebugReason.Text" xml:space="preserve">
+    <value>فعال بودن حالت عیب‌یابی به سرعت عملکرد سایت ضربه زده و ممکن است جزئیات مشکلات امنیتی را برای هکرها آشکار سازد.</value>
+  </data>
+  <data name="CheckDebugSuccess.Text" xml:space="preserve">
+    <value>در حالت عیب‌یابی نیست</value>
+  </data>
+  <data name="cmdCheck.Text" xml:space="preserve">
+    <value>بررسی</value>
+  </data>
+  <data name="cmdSearch.Text" xml:space="preserve">
+    <value>جستجو</value>
+  </data>
+  <data name="plSearchTerm.Text" xml:space="preserve">
+    <value>عبارت جستجو</value>
+  </data>
+  <data name="ScannerChecks.Text" xml:space="preserve">
+    <value>بررسی اسکنر</value>
+  </data>
+  <data name="AuditExplanation.Text" xml:space="preserve">
+    <value>نتایج اسکن خودکار از بهترین شیوه امنیت به شرح زیر می‌باشد.</value>
+  </data>
+  <data name="Authorized.Header" xml:space="preserve">
+    <value>مجاز</value>
+  </data>
+  <data name="CheckTracing.Text" xml:space="preserve">
+    <value>tracing فعال است - ویرایش فایل web.config و تغییر مقدار آن به false را در نظر داشته باشید (یا از مدیر پیکربندی استفاده کنید)</value>
+  </data>
+  <data name="CheckTracingReason.Text" xml:space="preserve">
+    <value>فعال بودن مشخصه tracing به هکرهای بالقوه اجازه می‌دهد تا فعالیت سایت را مشاهده کنند.</value>
+  </data>
+  <data name="CheckTracingSuccess.Text" xml:space="preserve">
+    <value>Tracing فعال نیست</value>
+  </data>
+  <data name="CreatedDate.Header" xml:space="preserve">
+    <value>تاریخ ساخت</value>
+  </data>
+  <data name="DisplayName.Header" xml:space="preserve">
+    <value>نام نمایشی</value>
+  </data>
+  <data name="Email.Header" xml:space="preserve">
+    <value>ایمیل</value>
+  </data>
+  <data name="FirstName.Header" xml:space="preserve">
+    <value>نام</value>
+  </data>
+  <data name="LastActivityDate.Header" xml:space="preserve">
+    <value>تاریخ آخرین فعالیت</value>
+  </data>
+  <data name="LastLogin.Header" xml:space="preserve">
+    <value>تاریخ آخرین ورود</value>
+  </data>
+  <data name="LastName.Header" xml:space="preserve">
+    <value>نام خانوادگی</value>
+  </data>
+  <data name="ScannerExplanation.Text" xml:space="preserve">
+    <value>این تب به شما اجازه می‌دهد که تا یک عبارت خاص را بین فایل‌ها یا پایگاه‌داده جستجو کنید. این قابلیت در مواردی که سایت شما محتوای ناخواسته نمایش می‌دهد و می‌خواهید مکان آن را پیدا کنید مفید است.</value>
+  </data>
+  <data name="Username.Header" xml:space="preserve">
+    <value>نام‌کاربری</value>
+  </data>
+  <data name="CheckBiographyFailure.Text" xml:space="preserve">
+    <value>فیلد ویرایشگر متن می‌باشد</value>
+  </data>
+  <data name="CheckBiographyReason.Text" xml:space="preserve">
+    <value>فیلد زندگینامه یک هدف مشترک برای هرزنگاران جهت افزودن لینک و کد thml در آن می‌باشد. در دی‌ان‌ان نگارش 7.2.0 برای کاهش ریسک نوع این فیلد از ویرایشگر متن به جعبه متن چند خطی تغییر پیدا کرد.</value>
+  </data>
+  <data name="CheckBiographySuccess.Text" xml:space="preserve">
+    <value>فیلد جعبه متن چندخطی می‌باشد</value>
+  </data>
+  <data name="CheckRarelyUsedSuperuserFailure.Text" xml:space="preserve">
+    <value>ما بیشتر از یک حساب کاربری مدیرارشد که برای مدت 6 ماه وارد سایت نشده یا هیچ فعالیتی انجام نداده پیدا کردیم. حذف این حساب‌های کاربری را به عنوان بهترین شیوه پیشنهادی در نظر داشته باشد.</value>
+  </data>
+  <data name="CheckRarelyUsedSuperuserReason.Text" xml:space="preserve">
+    <value>حساب‌های مدیرارشد قدرتمندترین حساب کابری در دی‌ان‌ان می‌باشد. به عنوان بهترین شیوه این حساب‌ها باید محدود گردند.</value>
+  </data>
+  <data name="CheckRarelyUsedSuperuserSuccess.Text" xml:space="preserve">
+    <value>تمام مدیران ارشد کاربران منظم سیستم هستند</value>
+  </data>
+  <data name="CheckSiteRegistrationFailure.Text" xml:space="preserve">
+    <value>یک یا چند پرتال از شیوه ثبت‌نام عمومی استفاده می‌کند</value>
+  </data>
+  <data name="CheckSiteRegistrationReason.Text" xml:space="preserve">
+    <value>سایت‌هایی با ثبت‌نام عمومی هدف اولیه هرزنگاران می‌باشد.</value>
+  </data>
+  <data name="CheckSiteRegistrationSuccess.Text" xml:space="preserve">
+    <value>تمام پرتال‌ها از ثبت‌نام غیرعمومی استفاده می‌کنند</value>
+  </data>
+  <data name="CheckSuperuserOldPasswordFailure.Text" xml:space="preserve">
+    <value>حداقل یک حساب کاربری مدیرارشد وجود دارد که کلمه‌عبور خود را به مدت 6 ماه یا بیشتر تغییر نداده است.</value>
+  </data>
+  <data name="CheckSuperuserOldPasswordReason.Text" xml:space="preserve">
+    <value>حساب‌های مدیرارشد قدرتمندترین حساب کابری در دی‌ان‌ان می‌باشد. به عنوان بهترین شیوه این حساب‌ها باید به طور منظم کلمه‌عبور خود را تغییر دهند.</value>
+  </data>
+  <data name="CheckSuperuserOldPasswordSuccess.Text" xml:space="preserve">
+    <value>هیچ مدیرارشدی کلمه‌عبور قدیمی‌تر از 6 ماه ندارد</value>
+  </data>
+  <data name="CheckUnexpectedExtensionsFailure.Text" xml:space="preserve">
+    <value>یک فایل asp یا php یافت شد - ممکن است این فایل‌ها بی‌خطر باشد، اما گاهی اوقات بدین معناست که سایت شما قبلا هک شده و این فایل ابزار دسترسی به سایت شماست. ما توصیه می‌کنیم که این فایل‌ها را با دقت ارزیابی نمایید.</value>
+  </data>
+  <data name="CheckUnexpectedExtensionsReason.Text" xml:space="preserve">
+    <value>دی‌ان‌ان یک اپلیکیشن asp.net است. در حالت عادی نباید فایل‌های php یا asp در سایت شما وجود داشته باشد.</value>
+  </data>
+  <data name="CheckUnexpectedExtensionsSuccess.Text" xml:space="preserve">
+    <value>هیچ فایل غیرمنتظره‌ای یافت نشد</value>
+  </data>
+  <data name="CheckViewstatemacFailure.Text" xml:space="preserve">
+    <value>viewstatemac برابر با enabled failure نیست</value>
+  </data>
+  <data name="CheckViewstatemacReason.Text" xml:space="preserve">
+    <value>یک view-state MAC یک نسخه کدگذاری شده از متغییر مخفی است که view state صفحه هنگام ارسال صفحه به مروگر از آن استفاده می‌کند. با فعال بودن این مشخصه، کدگذاری view state صفحه بررسی شده تا مطمئن شویم که توسط یک بازدیدکننده قابل دستکاری نیست.</value>
+  </data>
+  <data name="CheckViewstatemacSuccess.Text" xml:space="preserve">
+    <value>viewstate از طریق استفاده از یک MAC محافظت شده است</value>
+  </data>
+  <data name="CheckPurpose.Header" xml:space="preserve">
+    <value>هدف از بررسی</value>
+  </data>
+  <data name="Result.Header" xml:space="preserve">
+    <value>نتیجه</value>
+  </data>
+  <data name="Severity.Header" xml:space="preserve">
+    <value>شدت</value>
+  </data>
+  <data name="CheckBiographyName.Text" xml:space="preserve">
+    <value>بررسی استفاده فیلدهای پروفایل عمومی از ویرایشگر متن</value>
+  </data>
+  <data name="CheckDebugName.Text" xml:space="preserve">
+    <value>بررسی وضعیت عیب‌یابی</value>
+  </data>
+  <data name="CheckRarelyUsedSuperuserName.Text" xml:space="preserve">
+    <value>بررسی فعال بودن حساب‌های کاربری مدیرارشد که به ندرت فعال هستند</value>
+  </data>
+  <data name="CheckSiteRegistrationName.Text" xml:space="preserve">
+    <value>بررسی استفاده سایت‌ها از ثبت‌نام عمومی</value>
+  </data>
+  <data name="CheckSuperuserOldPasswordName.Text" xml:space="preserve">
+    <value>بررسی تغییر کلمه‌عبور مدیران ارشد</value>
+  </data>
+  <data name="CheckTracingName.Text" xml:space="preserve">
+    <value>بررسی فعال بودن asp.net tracing</value>
+  </data>
+  <data name="CheckUnexpectedExtensionsName.Text" xml:space="preserve">
+    <value>بررسی پیدا شدن فایل‌های asp یا php</value>
+  </data>
+  <data name="CheckViewstatemacName.Text" xml:space="preserve">
+    <value>بررسی محافظت شدن viewstate</value>
+  </data>
+  <data name="NoDatabaseResults.Text" xml:space="preserve">
+    <value>عبارت جستجو در پایگاه‌داده یافت نشد</value>
+  </data>
+  <data name="NoFileResults.Text" xml:space="preserve">
+    <value>عبارت جستجو در هیچ فایلی یافت نشد</value>
+  </data>
+  <data name="SearchTermRequired.Text" xml:space="preserve">
+    <value>عبارت جستجو الزامی است</value>
+  </data>
+  <data name="CheckTracingFailure.Text" xml:space="preserve">
+    <value>tracing فعال است - این موضوع به هکرهای بالقوه اجازه می‌دهد تا فعالیت سایت را مشاهده کنند.</value>
+  </data>
+</root>

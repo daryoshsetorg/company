@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdvancedUrlManagementActivationWarning.Text">
+    <value xml:space="preserve">Bitte beachten Sie, dass Sie diese Einstellungen ändern können, diese aber erst aktiv werden, wenn der erweiterte URL-Modus für die Website aktiviert wird. 
+Weitere Hinweise finden sie auf folgender Wiki-Seite (in engl. Sprache): &lt;a href="http://www.dnnsoftware.com/Resources/Wiki/Page/Activating-Advanced-Url-Management" target="_blank"&gt;www.dnnsoftware.com/Resources/Wiki/Page/Activating-Advanced-Url-Management&lt;/a&gt;.</value>
+  </data>
+  <data name="allowDebugCodeLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um Anfragen die Angabe eines Debug-Codes mit zusätzlichen Debug-Informationen zur  URL-Weiterleitungen im Response Header zu erlauben. Diese Option soll nur kurzfristig zum Debuggen verwendet werden.</value>
+  </data>
+  <data name="allowDebugCodeLabel.Text">
+    <value xml:space="preserve">Debug-Code zulassen</value>
+  </data>
+  <data name="autoAsciiConvertLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um diakritische Zeichen (d.h. mit Akzenten wie ä, ö, ü, å and è in die zugehörigen ASCII-Äquivalente umzuwandeln, Beispiel : å -&gt; a und è -&gt; e.</value>
+  </data>
+  <data name="autoAsciiConvertLabel.Text">
+    <value xml:space="preserve">Umlaute und Akzente eliminieren</value>
+  </data>
+  <data name="checkForDuplicatedUrlsLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um alle gefundenen doppelten URLs in der Website im Ereignisprotokoll berichtet. Das System wird die anzuzeigende Seite automatisch auswählen.</value>
+  </data>
+  <data name="checkForDuplicatedUrlsLabel.Text">
+    <value xml:space="preserve">Doppelte URLs protokollieren</value>
+  </data>
+  <data name="doNotRedirectHttpsUrlRegExCaption.Text">
+    <value xml:space="preserve">Jede URL, die diesem regulären Ausdruck entspricht, wird nicht von http zu https oder von https zu http weitergeleitet.</value>
+  </data>
+  <data name="doNotRedirectHttpsUrlRegExInvalidPattern.Text">
+    <value xml:space="preserve">Der reguläre Ausdruck zum Verhindern der Weiterleiten nach https ist ungültig.</value>
+  </data>
+  <data name="doNotRedirectHttpsUrlRegExLabel.Help">
+    <value xml:space="preserve">Der reguläre Ausdruck wird verwendet, um ungewollte Weiterleitungen zwischen http und https in beide Richtungen zu unterbinden. Er verhindert dies für alle URLs, die dem Ausdruck entsprechen.</value>
+  </data>
+  <data name="doNotRedirectHttpsUrlRegExLabel.Text">
+    <value xml:space="preserve">Regulärer Ausdruck zum Unterbinden der https-Weiterleitung</value>
+  </data>
+  <data name="doNotRedirectUrlRegExCaption.Text">
+    <value xml:space="preserve">Jede URL, die diesem regulären Ausdruck entspricht, wird keinesfalls weitergeleitet.</value>
+  </data>
+  <data name="doNotRedirectUrlRegExInvalidPattern.Text">
+    <value xml:space="preserve">Der reguläre Ausdruck zum Unterbinden der Weiterleitung ist ungültig.</value>
+  </data>
+  <data name="doNotRedirectUrlRegExLabel.Help">
+    <value xml:space="preserve">Der reguläre Ausdruck zum Unterbinden der Weiterleitung unterbindet die Weiterleitung unter allen Umständen. Verwenden Sie dieses Muster, wenn eine URL fehlerhaft weitergeleitet wird.</value>
+  </data>
+  <data name="doNotRedirectUrlRegExLabel.Text">
+    <value xml:space="preserve">Regulärer Ausdruck zum Unterbinden jeglicher Weiterleitung</value>
+  </data>
+  <data name="doNotRewriteRegExCaption.Text">
+    <value xml:space="preserve">Jede URL, die diesem regulären Ausdruck entspricht, wird nicht umgeschrieben, d.h. der Web Server verarbeitet sie im Originalformat.</value>
+  </data>
+  <data name="doNotRewriteRegExInvalidPattern.Text">
+    <value xml:space="preserve">Der reguläre Ausdruck, der das Umschreiben der URL verhindert, ist ungültig.</value>
+  </data>
+  <data name="doNotRewriteRegExLabel.Help">
+    <value xml:space="preserve">Der reguläre Ausdruck zum Verhindern des URL-Rewrite unterbindet das umschreiben der URL für jede URL, die dem Ausdruck entspricht. Verwenden Sie diese Option, wenn eine URL als Seite in Ihrer Website interpretiert wird, obwohl sie es nicht ist.</value>
+  </data>
+  <data name="doNotRewriteRegExLabel.Text">
+    <value xml:space="preserve">Regulärer Ausdruck zum Verhindern des URL-Rewrite</value>
+  </data>
+  <data name="doNotUseFriendlyUrlsRegExCaption.Text">
+    <value xml:space="preserve">Jede URL, dies diesem regulären Ausdruck entspricht, wird umgeschrieben als längere URL, die auch die TabId der DotNetNuke-Seite enthält. Die resultierende Seite hat das Format /Pagename/TabId/xx/default.aspx.</value>
+  </data>
+  <data name="doNotUseFriendlyUrlsRegExInvalidPattern.Text">
+    <value xml:space="preserve">Der reguläre Ausdruck zum Verhindern der SEO-freundlichen URL ist ungültig.</value>
+  </data>
+  <data name="doNotUseFriendlyUrlsRegExLabel.Help">
+    <value xml:space="preserve">Der reguläre Ausdruck wird verwendet, um zu verhindern, dass die URL in einer SEO-freundlichen Form umgeschrieben wird, stattdessen wird eine längere URL mit TabId der Seite verwendet. Dies wird von einigen älteren Modulen benötigt.</value>
+  </data>
+  <data name="doNotUseFriendlyUrlsRegExLabel.Text">
+    <value xml:space="preserve">Regulärer Ausdruck zum Verhindern der SEO-freundlichen URL</value>
+  </data>
+  <data name="enableCustomModuleProvidersLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um individuelle URL-Provider der Website zu verwenden. Wenn die Option nicht aktiv ist, werden keine individuellen URL-Provider geladen.</value>
+  </data>
+  <data name="enableCustomModuleProvidersLabel.Text">
+    <value xml:space="preserve">Individuelle URL-Provider</value>
+  </data>
+  <data name="forceLowerCaseLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um alle Großbuchstaben in der URL in Kleinbuchstaben zu wandeln.</value>
+  </data>
+  <data name="forceLowerCaseLabel.Text">
+    <value xml:space="preserve">Kleinbuchstaben verwenden</value>
+  </data>
+  <data name="General.Text">
+    <value xml:space="preserve">Allgemein</value>
+  </data>
+  <data name="identifiedTabLabel.Help">
+    <value xml:space="preserve">Sie sehen hier den Namen der Seite Ihrer Website, die während des URL-Rewrite identifiziert wurde.</value>
+  </data>
+  <data name="identifiedTabLabel.Text">
+    <value xml:space="preserve">Identifizierte Seite</value>
+  </data>
+  <data name="ignoreRegExCaption.Text">
+    <value xml:space="preserve">Jede URL, die diesem regulären Ausdruck entspricht, wird vom URL-Rewriter nicht verändern oder weitergeleitet. Verwenden Sie diesen Ausdruck, um zu verhindern dass bestimmte URLs umgeschrieben oder weitergeleitet werden.</value>
+  </data>
+  <data name="ignoreRegExInvalidPattern.Text">
+    <value xml:space="preserve">Der reguläre Ausdruck für zu ignorierende URLs ist ungültig.</value>
+  </data>
+  <data name="ignoreRegExLabel.Help">
+    <value xml:space="preserve">Der reguläre Ausdruck verhindert, dass URLs, die diesem entsprechen, vom URL-Rewriter verarbeitet werden. Dies wird verwendet, wenn die entsprechende URL nicht umgeschrieben oder weitergeleitet werden soll, Beispiele sind Bilder, CSS-Dateien, PDF-Dokumente, Web-Service-Aufrufe und Anforderungen von Ressourcen außerhalb der Website.</value>
+  </data>
+  <data name="ignoreRegExLabel.Text">
+    <value xml:space="preserve">reguläre Ausdruck für zu ignorierende URLs</value>
+  </data>
+  <data name="InvalidRequest.Text">
+    <value xml:space="preserve">Die Anfrage ist ungültig.</value>
+  </data>
+  <data name="keepInQueryStringRegExCaption.Text">
+    <value xml:space="preserve">Jeder Abschnitt eines SEO-freundlichen URL-Pfads, der diesem regulären Ausdruck entspricht, wird als QueryString-Parameter eingesetzt.</value>
+  </data>
+  <data name="keepInQueryStringRegExInvalidPattern.Text">
+    <value xml:space="preserve">Der reguläre Ausdruck für QueryString-Parameter ist ungültig.</value>
+  </data>
+  <data name="keepInQueryStringRegExLabel.Help">
+    <value xml:space="preserve">Der reguläre Ausdruck erlaubt es, einen Abschnitt der SEO-freundlichen URL zu definieren, die als QueryString-Parameter übermittelt werden soll.  Wenn eine URL der Form  /Seitenname/Schlüssel/Wert generiert wird, und /Schlüssel/Wert diesem regulären Ausdruck entspricht, wird der entsprechende Teil als Parameter angehängt, d.h. /Seitenname?Schlüssel=Wert..</value>
+  </data>
+  <data name="keepInQueryStringRegExLabel.Text">
+    <value xml:space="preserve">Regulärer Ausdruck für QueryString-Parameter</value>
+  </data>
+  <data name="languageLabel.Help">
+    <value xml:space="preserve">Zeigt den Sprach-Code, wie er während des URL-Rewrite identifiziert wird.</value>
+  </data>
+  <data name="languageLabel.Text">
+    <value xml:space="preserve">Identifizierte Sprache/Kultur</value>
+  </data>
+  <data name="operationMessagesLabel.Help">
+    <value xml:space="preserve">Sie sehen hier alle Debug-Hinweise, die währende des URL-Rewrite-Tests generiert wurden.</value>
+  </data>
+  <data name="operationMessagesLabel.Text">
+    <value xml:space="preserve">Debug-Ausgabe</value>
+  </data>
+  <data name="OptionalSettings.Text">
+    <value xml:space="preserve">Optionale Einstellungen</value>
+  </data>
+  <data name="pageListLabel.Text">
+    <value xml:space="preserve">Die Seite ist in der Website vorhanden</value>
+  </data>
+  <data name="pageNameLabel.Help">
+    <value xml:space="preserve">Einige Module generieren eine SEO-freundliche URL durch explizite Angabe des letzten Teils der URL. Wenn Sie ein solches Modul einsetzen, geben Sie den Teil für den ‘Seitennamen’ an, der bei der Erstellung der URL verwendet wird. Wenn Sie hierfür keinen festen Wert haben oder kein entsprechendes Modul einsetzen, lassen Sie den Wert leer.</value>
+  </data>
+  <data name="pageNameLabel.Text">
+    <value xml:space="preserve">Individueller Seitenname / URL-Ende</value>
+  </data>
+  <data name="preventLowerCaseUrlRegExCaption.Text">
+    <value xml:space="preserve">Jede URL, die diesem regulären Ausdruck entspricht, wird nicht in Kleinbuchstaben umgewandelt, auch wenn die Option "Kleinbuchstaben" aktiviert ist.</value>
+  </data>
+  <data name="preventLowerCaseUrlRegExInvalidPattern.Text">
+    <value xml:space="preserve">Der reguläre Ausdruck, der die Umwandlung in Kleinbuchstaben verhindert, ist ungültig.</value>
+  </data>
+  <data name="preventLowerCaseUrlRegExLabel.Help">
+    <value xml:space="preserve">Der reguläre Ausdruck unterbindet die automatische Umwandlung der URL in Kleinbuchstaben für alle URLs, die ihm entsprechen. Verwenden Sie diese Option für alle Seiten, bei der die Schreibweise beibehalten werden soll, insbesondere, wenn die URL kodierte Werte oder Parameter enthält.</value>
+  </data>
+  <data name="preventLowerCaseUrlRegExLabel.Text">
+    <value xml:space="preserve">Regulärer Ausdruck zum Unterbinden der Kleinbuchstaben-Wandlung</value>
+  </data>
+  <data name="queryStringLabel.Help">
+    <value xml:space="preserve">Um eine URL zu generieren, die zusätzlichen Informationen im Pfad enthält, fügen Sie diese als Parameterangabe hinzu. Z.B: &amp;Schlüssel=Wert erweitert die generierte URL, so dass /Schlüssel/Wert enthalten sind.  Verwenden Sie dieses Feature, um z.B. URLs zu testen, die von Drittanbietermodulen generiert werden.</value>
+  </data>
+  <data name="queryStringLabel.Text">
+    <value xml:space="preserve">Diesen QueryString-Parameter hinzufügen</value>
+  </data>
+  <data name="redirectionResultLabel.Help">
+    <value xml:space="preserve">Wenn die getestete URL weitergeleitet wird, sehen Sie hier das Weiterleitungsziel.</value>
+  </data>
+  <data name="redirectionResultLabel.Text">
+    <value xml:space="preserve">Weiterleitungsergebnis</value>
+  </data>
+  <data name="redirectOnWrongCaseLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um alle URLs, die Großbuchstaben enthalten, auf die entsprechende Variante mit Kleinbuchstaben weiterzuleiten.</value>
+  </data>
+  <data name="redirectOnWrongCaseLabel.Text">
+    <value xml:space="preserve">Zu Kleinbuchstaben-URL weiterleiten</value>
+  </data>
+  <data name="Regex.Text">
+    <value xml:space="preserve">Reguläre Ausdrücke</value>
+  </data>
+  <data name="replaceCharPairsCaption.Text">
+    <value xml:space="preserve">Verwenden Sie Paare f, r, wobei 'f' das zu ersetzende Zeichen und 'r' das ersetzende Zeichen ist.</value>
+  </data>
+  <data name="replaceCharPairsInvalidPattern.Text">
+    <value xml:space="preserve">Die Liste der Ersetzungen ist ungültig.</value>
+  </data>
+  <data name="replaceCharPairsLabel.Help">
+    <value xml:space="preserve">Um ein Zeichen in einer URL durch ein anderes zu ersetzen, verwenden Sie ein durch Komma getrenntes Paar von Zeichen (mehrere Paare werden durch Semikolon getrennt), bei denen das erste Zeichen das zu suchende ist und das zweite die Ersetzung. f,r findet alle ‘f’ in einer URL und ersetzt es durch ‘r’. Dies kann verwendet werden, um z.B. ä durch ‘ae’ zu ersetzen. Die Ersetzung wird nur auf URLs von Seiten und Benutzerprofilen angewendet sowie URLs, die durch einen URL-Provider generiert werden. Sie können nur Einzelzeichen ersetzen, wobei die Ersetzung durchaus mehrere Zeichen umfassen darf.</value>
+  </data>
+  <data name="replaceCharPairsLabel.Text">
+    <value xml:space="preserve">Suche und ersetzte diese Zeichen</value>
+  </data>
+  <data name="replaceCharsLabel.Help">
+    <value xml:space="preserve">Wenn Zeichen aus dieser Liste in einem Seitennamen enthalten sind, werden Sie durch das angegebene Ersetzungszeichen (- oder _) ersetzt. 
+Um weitere Zeichen zu ersetzen, hängen Sie diese an die Liste an, um die Ersetzung für eines der Zeichen zu beenden, entfernen sie es aus der Liste.&lt;br&gt;&lt;br&gt;
+[Hinweis: Die aktuell angezeigte Liste ist der Standardwert]</value>
+  </data>
+  <data name="replaceCharsLabel.Text">
+    <value xml:space="preserve">Diese Zeichen ersetzen</value>
+  </data>
+  <data name="resultingUrlsLabel.Help">
+    <value xml:space="preserve">Sie sehen hier die Liste der URLs, die für die ausgewählte Seite generiert werden können, abhängig vom verwendeten Website-Alias und der Sprache.</value>
+  </data>
+  <data name="resultingUrlsLabel.Text">
+    <value xml:space="preserve">resultierende URLs</value>
+  </data>
+  <data name="rewritingResultLabel.Help">
+    <value xml:space="preserve">Sie sehen hier die umgeschriebene URL im "Rohformat", wie es der Plattform und deren Erweiterungen übermittelt wird.</value>
+  </data>
+  <data name="rewritingResultLabel.Text">
+    <value xml:space="preserve">Rewrite-Ergebnis</value>
+  </data>
+  <data name="Search.Text">
+    <value xml:space="preserve">suchen</value>
+  </data>
+  <data name="selectPageToTestLabel.Help">
+    <value xml:space="preserve">Wählen Sie eine Seite aus der Website, deren URL-Generierung Sie testen möchten. Über das Suchfeld können Sie die Liste filtern.</value>
+  </data>
+  <data name="selectPageToTestLabel.Text">
+    <value xml:space="preserve">Wählen Sie die zu testende Seite</value>
+  </data>
+  <data name="setDefaultSiteLanguageLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um die Standardsprache für diese Website immer in die umgeschriebene URL aufzunehmen, sofern keine andere Sprache gefunden wurde.</value>
+  </data>
+  <data name="setDefaultSiteLanguageLabel.Text">
+    <value xml:space="preserve">Standardsprache der Website verwenden</value>
+  </data>
+  <data name="showPageIndexRebuildMessagesLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um jede Neuerstellung des URL-Katalogs für diese Website im Ereignisprotokoll einzutragen. Verwenden Sie diese Funktion , um die Cache-Nutzung für den Katalog der Seiten-URLs zu untersuchen.</value>
+  </data>
+  <data name="showPageIndexRebuildMessagesLabel.Text">
+    <value xml:space="preserve">Neuaufbau des URL-Katalogs protokollieren</value>
+  </data>
+  <data name="siteUrlsOnlyRegExCaption.Text">
+    <value xml:space="preserve">Jede URL, die diesem regulären Ausdruck entspricht, wird gegen die Regeln geprüft, die in der Datei siteurls.config hinterlegt sind.</value>
+  </data>
+  <data name="siteUrlsOnlyRegExInvalidPattern.Text">
+    <value xml:space="preserve">Der reguläre Ausdruck für URLs, die nur gegen Site URLs validiert werden, ist ungültig.</value>
+  </data>
+  <data name="siteUrlsOnlyRegExLabel.Help">
+    <value xml:space="preserve">Der reguläre Ausdruck ändert die Verarbeitungsreihenfolge. Wenn eine URL dem Ausdruck entspricht, wird sie  gegen jede Regel in der Datei siteurls.config validiert, ohne zuvor gegen die Regeln für SEO-freundliche URLs geprüft zu werden. Verwenden Sie dieses Muster, um die Verarbeitung  durch die Datei siteurls.config file für explizites URL Rewrite oder Weiterleitung zu erzwingen.</value>
+  </data>
+  <data name="siteUrlsOnlyRegExLabel.Text">
+    <value xml:space="preserve">Regulärer Ausdruck für Website-URLs</value>
+  </data>
+  <data name="SomeRegExAreInvalid.Text">
+    <value xml:space="preserve">Einige reguläre Ausdrücke sind ungültig.</value>
+  </data>
+  <data name="spaceEncodingHex.Text">
+    <value xml:space="preserve">Hexadezimale Kodierung (%20)</value>
+  </data>
+  <data name="spaceEncodingLabel.Help">
+    <value xml:space="preserve">Dieses Zeichen wird verwendet, um Leerzeichen in generierten URLs zu ersetzen, falls Parameter mit Leerzeichen verwendet werden.</value>
+  </data>
+  <data name="spaceEncodingLabel.Text">
+    <value xml:space="preserve">Leerzeichen-Kodierung</value>
+  </data>
+  <data name="spaceEncodingPlus.Text">
+    <value xml:space="preserve">englischer Name (+)</value>
+  </data>
+  <data name="TestUrl.Text">
+    <value xml:space="preserve">Test-URL</value>
+  </data>
+  <data name="TestUrlButtonCaption.Text">
+    <value xml:space="preserve">Test-URL</value>
+  </data>
+  <data name="TestUrlButtonTooltip.Text">
+    <value xml:space="preserve">Test-URL</value>
+  </data>
+  <data name="testUrlRewritingButton.Text">
+    <value xml:space="preserve">URL-Manipulation testen</value>
+  </data>
+  <data name="testUrlRewritingCaption.Text">
+    <value xml:space="preserve">Zu testende URL (vollständig mit http:// oder https://)</value>
+  </data>
+  <data name="testUrlRewritingLabel.Help">
+    <value xml:space="preserve">Geben Sie eine vollständige URL (beginnend mit http:// oder https://) hier ein, um die URL-Manipulationen zu testen.</value>
+  </data>
+  <data name="testUrlRewritingLabel.Text">
+    <value xml:space="preserve">URL-Rewriting testen</value>
+  </data>
+  <data name="upDateButton.Text">
+    <value xml:space="preserve">aktualisieren</value>
+  </data>
+  <data name="UrlMustBeSpecified.Text">
+    <value xml:space="preserve">Die URL ist nicht angegeben!</value>
+  </data>
+  <data name="urlsWithNoExtensionRegExCaption.Text">
+    <value xml:space="preserve">Jede URL, die diesem regulären Ausdruck entspricht, ist eine gültige Ressource auf dem Server, auch wenn sie keine typische Dateiendung wie .html, .aspx etc. verwendt.</value>
+  </data>
+  <data name="urlsWithNoExtensionRegExInvalidPattern.Text">
+    <value xml:space="preserve">Der reguläre Ausdruck für URLs ohne Dateierweiterung ist ungültig.</value>
+  </data>
+  <data name="urlsWithNoExtensionRegExLabel.Help">
+    <value xml:space="preserve">Der reguläre Ausdruck für URLs ohne Dateierweiterung wird verwendet, um URLs zu verifizieren, die nicht auf eine Ressource auf dem Server verweisen, keine Seiten der Website sind, aber ohne Dateierweiterung abgerufen werden können. URLs, die dem regulären Ausdruck entsprechen werden nicht als 404-Fehler behandelt, wenn keine entsprechende Seite in der Website gefunden wird.</value>
+  </data>
+  <data name="urlsWithNoExtensionRegExLabel.Text">
+    <value xml:space="preserve">Regulärer Ausdruck für URLs ohne Dateierweiterung </value>
+  </data>
+  <data name="validFriendlyUrlRegExCaption.Text">
+    <value xml:space="preserve">Jeder Name einer Seite in der Website muss diesem regulären Ausdruck entsprechen, um in einen SEO-freundlichen URL-Pfad umgewandelt zu werden.</value>
+  </data>
+  <data name="validFriendlyUrlRegExInvalidPattern.Text">
+    <value xml:space="preserve">Der reguläre Ausdruck zur Gültigkeitsprüfung des Seitennamens ist ungültig.</value>
+  </data>
+  <data name="validFriendlyUrlRegExLabel.Help">
+    <value xml:space="preserve">Dieses Muster wird verwendet, um festzustellen, ob aus dem Seitenname eine gültige SEO-freundliche URL generiert werden kann.</value>
+  </data>
+  <data name="validFriendlyUrlRegExLabel.Text">
+    <value xml:space="preserve">Gültiger regulärer Ausdruck für die SEO-freundliche URL</value>
+  </data>
+</root>

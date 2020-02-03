@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ActionDeleteTooltip.Text">
+    <value xml:space="preserve">löschen</value>
+  </data>
+  <data name="ActionEditTooltip.Text">
+    <value xml:space="preserve">bearbeiten</value>
+  </data>
+  <data name="ColumnActions.Text">
+    <value xml:space="preserve">Aktionen</value>
+  </data>
+  <data name="ColumnLanguage.Text">
+    <value xml:space="preserve">Sprache</value>
+  </data>
+  <data name="ColumnUrl.Text">
+    <value xml:space="preserve">URL</value>
+  </data>
+  <data name="ColumnUrlType.Text">
+    <value xml:space="preserve">URL-Typ</value>
+  </data>
+  <data name="CreateButton.Text">
+    <value xml:space="preserve">erstellen</value>
+  </data>
+  <data name="CreateButtonTooltip.Text">
+    <value xml:space="preserve">individuelle URL erstellen</value>
+  </data>
+  <data name="CreateUrlDialogTitle.Text">
+    <value xml:space="preserve">URL erstellen</value>
+  </data>
+  <data name="CustomUrlPathCleaned.Error">
+    <value xml:space="preserve">Die eingegebene Seitenadresse (URL) enthält nicht zulässige Sonderzeichen, die daher entfernt wurden Klicken Sie erneut auf "speichern", um die geänderte Adresse zu akzeptieren.&lt;br&gt;[Hinweis: die nicht zugelassenen Zeichen sind &lt;&gt;\?:&amp;=+|%# ]</value>
+  </data>
+  <data name="CustomUrlsLabel.Help">
+    <value xml:space="preserve">URLs, die für diese Seite erstellt wurden.</value>
+  </data>
+  <data name="CustomUrlsLabel.Text">
+    <value xml:space="preserve">Individuelle URLs</value>
+  </data>
+  <data name="DuplicateUrl.Error">
+    <value xml:space="preserve">Die URL stimmt mit einer bestehenden URL überein.</value>
+  </data>
+  <data name="EditLanguageLabel.Help">
+    <value xml:space="preserve">Sprache</value>
+  </data>
+  <data name="EditLanguageLabel.Text">
+    <value xml:space="preserve">Sprache:</value>
+  </data>
+  <data name="EditSiteAliasLabel.Help">
+    <value xml:space="preserve">Wählen Sie den Website-Alias für die Seite, falls Sie einen spezifischen Alias verwenden wollen..</value>
+  </data>
+  <data name="EditSiteAliasLabel.Text">
+    <value xml:space="preserve">Website-Alias:</value>
+  </data>
+  <data name="EditUrlDialogTitle.Text">
+    <value xml:space="preserve">URL bearbeiten</value>
+  </data>
+  <data name="EditUrlPathLabel.Help">
+    <value xml:space="preserve">URL-Pfad</value>
+  </data>
+  <data name="EditUrlPathLabel.Text">
+    <value xml:space="preserve">URL-Pfad:</value>
+  </data>
+  <data name="EditUrlQueryStringLabel.Help">
+    <value xml:space="preserve">Query-String</value>
+  </data>
+  <data name="EditUrlQueryStringLabel.Text">
+    <value xml:space="preserve">Query-String:</value>
+  </data>
+  <data name="EditUrlTypeLabel.Help">
+    <value xml:space="preserve">URL-Typ</value>
+  </data>
+  <data name="EditUrlTypeLabel.Text">
+    <value xml:space="preserve">URL-Typ:</value>
+  </data>
+  <data name="InvalidUrl.Error">
+    <value xml:space="preserve">Die angegebene URL ist nicht gültig, da die Sprache nicht mit der Sprache des Website-Alias übereinstimmt.</value>
+  </data>
+  <data name="PageAndChildPages.Text">
+    <value xml:space="preserve">Seiten und Unterseiten</value>
+  </data>
+  <data name="RemoveUrlPromptMessage.Text">
+    <value xml:space="preserve">Sind Sie sicher, dass Sie diese URL löschen wollen?</value>
+  </data>
+  <data name="RemoveUrlPromptTitle.Text">
+    <value xml:space="preserve">löschen</value>
+  </data>
+  <data name="SameAsParentPage.Text">
+    <value xml:space="preserve">Wie übergeordnete Seite</value>
+  </data>
+  <data name="SelectedSiteAliasUsage.Help">
+    <value xml:space="preserve">Falls der ausgewählte Alias der Website nicht der Standard-Alias ist, geben Sie die Verwendung an.</value>
+  </data>
+  <data name="SelectedSiteAliasUsage.Text">
+    <value xml:space="preserve">Verwendung des Alias:</value>
+  </data>
+  <data name="SystemGeneratedUrlsLabel.Help">
+    <value xml:space="preserve">Automatisch generierte URLs für diese Seite.</value>
+  </data>
+  <data name="SystemGeneratedUrlsLabel.Text">
+    <value xml:space="preserve">vom System generierte URLs</value>
+  </data>
+  <data name="TabText.Text">
+    <value xml:space="preserve">URL-Verwaltung</value>
+  </data>
+  <data name="ThisPageOnly.Text">
+    <value xml:space="preserve">nur diese Seite</value>
+  </data>
+  <data name="UrlPathNotUnique.Error">
+    <value xml:space="preserve">Die angegebene URL der Seite ist nicht gültig. Klicken Sie auf "speichern", um die vorgeschlagene URL zu übernehmen.</value>
+  </data>
+</root>

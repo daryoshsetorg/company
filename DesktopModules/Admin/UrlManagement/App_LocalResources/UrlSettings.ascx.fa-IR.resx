@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Do301RedirectToPortalHome.Text">
+    <value xml:space="preserve">301-Weiterleitung auf die Startseite</value>
+  </data>
+  <data name="Do404Error.Text">
+    <value xml:space="preserve">404-Fehler anzeigen</value>
+  </data>
+  <data name="enable301Redirects.Text">
+    <value xml:space="preserve">301-Weiterleitungen von "alten" auf neue URLs</value>
+  </data>
+  <data name="enable301RedirectsLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, wenn Sie alte "nicht-freundliche" URLs auf die neuen SEO-freundlichen Adressen weiterleiten wollen.</value>
+  </data>
+  <data name="enable301RedirectsLabel.Text">
+    <value xml:space="preserve">"Alte" URLs auf neue weiterleiten:</value>
+  </data>
+  <data name="enableLowerCaseLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um URLs in Kleinbuchstaben umzuwandeln.</value>
+  </data>
+  <data name="enableLowerCaseLabel.Text">
+    <value xml:space="preserve">URLs in Kleinbuchstaben wandeln:</value>
+  </data>
+  <data name="enableSystemGeneratedUrls.Text">
+    <value xml:space="preserve">Trennzeichen verwenden</value>
+  </data>
+  <data name="enableSystemGeneratedUrlsLabel.Help">
+    <value xml:space="preserve">Sie können hier festlegen, mit welchem Zeichen die Worte des Seitennamens verbunden werden.</value>
+  </data>
+  <data name="enableSystemGeneratedUrlsLabel.Text">
+    <value xml:space="preserve">Trennzeichen in Seiten-URLs:</value>
+  </data>
+  <data name="minusCharacter.Text">
+    <value xml:space="preserve">"-" (z.B. Seite-Name)</value>
+  </data>
+  <data name="pageExtensionHandling.Text">
+    <value xml:space="preserve">Dateierweiterung für Seiten verwenden</value>
+  </data>
+  <data name="pageExtensionHandlingAlwaysUse.Text">
+    <value xml:space="preserve">Seiten-URLs enden auf {0}</value>
+  </data>
+  <data name="pageExtensionHandlingLabel.Help">
+    <value xml:space="preserve">Sie können hier festlegen, welche Datei-Erweiterung für Seiten Ihrer Website verwendet werden soll.</value>
+  </data>
+  <data name="pageExtensionHandlingLabel.Text">
+    <value xml:space="preserve">Dateierweiterung:</value>
+  </data>
+  <data name="pageExtensionHandlingNever.Text">
+    <value xml:space="preserve">Seiten-URLs haben keine Endung</value>
+  </data>
+  <data name="plDeletedPages.Help">
+    <value xml:space="preserve">Wählen Sie aus, wir vorgegangen werden soll, wenn ein Benutzer eine gelöschte, abgelaufene oder deaktivierte Seite aufruft.</value>
+  </data>
+  <data name="plDeletedPages.Text">
+    <value xml:space="preserve">Ungültige Seiten weiterleiten auf:</value>
+  </data>
+  <data name="underscoreCharacter.Text">
+    <value xml:space="preserve">"_" (z.B. Seite_Name)</value>
+  </data>
+  <data name="UrlSettings.Text">
+    <value xml:space="preserve">URL-Format und Weiterleitungen</value>
+  </data>
+</root>

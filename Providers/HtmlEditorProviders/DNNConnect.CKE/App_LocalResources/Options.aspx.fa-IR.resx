@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+   Microsoft ResX Schema_Localized Dnnplus.ir 2018
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System" name="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.DefaultModifiers" type="System.CodeDom.MemberAttributes, System">
+    <value>Private</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.TrayLargeIcon" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="$this.TrayAutoArrange" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblHeader.Text" xml:space="preserve">
+    <value>اطلاعات</value>
+  </data>
+  <data name="lblModType.Text" xml:space="preserve">
+    <value>نوماژول:</value>
+  </data>
+  <data name="lblModName.Text" xml:space="preserve">
+    <value>نام ماژول:</value>
+  </data>
+  <data name="lblModInst.Text" xml:space="preserve">
+    <value>یکتایی ماژول :</value>
+  </data>
+  <data name="lblUName.Text" xml:space="preserve">
+    <value>نام کاربری:</value>
+  </data>
+  <data name="lblSettings.Text" xml:space="preserve">
+    <value>تنظیمات</value>
+  </data>
+  <data name="btnOK.Text" xml:space="preserve">
+    <value>ذخیره</value>
+  </data>
+  <data name="btnCancel.Text" xml:space="preserve">
+    <value>بستن</value>
+  </data>
+  <data name="Error1.Text" xml:space="preserve">
+    <value>کاربر مجوز نمایش و دسترسی به این صفحه را ندارید.</value>
+  </data>
+  <data name="lblPage.Text" xml:space="preserve">
+    <value>صفحه:</value>
+  </data>
+  <data name="lblSetFor.Text" xml:space="preserve">
+    <value>ویرایش تنظیمات برای ...</value>
+  </data>
+  <data name="lblBrowAllow.Text" xml:space="preserve">
+    <value>نقش های مجاز:</value>
+  </data>
+  <data name="lblBrowser.Text" xml:space="preserve">
+    <value>مرورگر فایل:</value>
+  </data>
+  <data name="lblBrowsSec.Text" xml:space="preserve">
+    <value>تنظیمات مرورگر فایل</value>
+  </data>
+  <data name="lblCSSURL.Text" xml:space="preserve">
+    <value>ویرایشگر CSS:</value>
+  </data>
+  <data name="lblPortal.Text" xml:space="preserve">
+    <value>نام سایت:</value>
+  </data>
+  <data name="lblStyles.Text" xml:space="preserve">
+    <value>ویرایشگر استال</value>
+  </data>
+  <data name="lblToolbars.Text" xml:space="preserve">
+    <value>نوار ابزار ها:</value>
+  </data>
+  <data name="lnkRemove.Text" xml:space="preserve">
+    <value>حذف تنظیمات</value>
+  </data>
+  <data name="lblInfo.Text" xml:space="preserve">
+    <value>تنظیمات ذخیره شد. تازه کردن ویرایشگر و یا بارگذاری دوباره این صفحه برای دیدن تغییرات.</value>
+  </data>
+  <data name="lblInfoDel.Text" xml:space="preserve">
+    <value>حذف تنظیمات</value>
+  </data>
+  <data name="lblBlanktext.Text" xml:space="preserve">
+    <value>متن خالی:</value>
+  </data>
+  <data name="lblRole.Text" xml:space="preserve">
+    <value>نقش</value>
+  </data>
+  <data name="lblSelToolb.Text" xml:space="preserve">
+    <value>انتخاب یک نوار ابزار</value>
+  </data>
+  <data name="Options.Text" xml:space="preserve">
+    <value>گزینه های ویرایشگر سفارشی</value>
+  </data>
+  <data name="lblMainSet.Text" xml:space="preserve">
+    <value>تنظیمات پایه</value>
+  </data>
+  <data name="lblBrowserDirs.Text" xml:space="preserve">
+    <value>استفاده از Subdirs برای غیر مدیران (..\Portals\0\userfiles\username):</value>
+  </data>
+  <data name="lblTemplates.Text" xml:space="preserve">
+    <value>ویرایشگر Templates</value>
+  </data>
+  <data name="lblTemplFiles.Text" xml:space="preserve">
+    <value>ویرایشگر Templates فایل:</value>
+  </data>
+  <data name="lblCustomConfig.Text" xml:space="preserve">
+    <value>سفارش سازی فایل پیکربندی:</value>
+  </data>
+  <data name="AddToolbar.Text" xml:space="preserve">
+    <value>افزودن یک ست جدید به نوار ابزار</value>
+  </data>
+  <data name="CancelToolbar.Text" xml:space="preserve">
+    <value>لغو ویرایش</value>
+  </data>
+  <data name="DeleteToolbar.Text" xml:space="preserve">
+    <value>حذف مجموعه نوار ابزار انتخاب شده</value>
+  </data>
+  <data name="EditToolbar.Text" xml:space="preserve">
+    <value>ویرایش مجموعه نوار ابزار انتخاب شده</value>
+  </data>
+  <data name="lblCustomToolbars.Text" xml:space="preserve">
+    <value>نوار ابزار سفارشی</value>
+  </data>
+  <data name="lblToolbarList.Text" xml:space="preserve">
+    <value>فهرست نوار ابزار های سفارشی:</value>
+  </data>
+  <data name="lblToolbName.Text" xml:space="preserve">
+    <value>نام نوار ابزار:</value>
+  </data>
+  <data name="lblToolbSet.Text" xml:space="preserve">
+    <value>دکمه های نوار ابزار در دسترس</value>
+  </data>
+  <data name="SaveToolbar.Text" xml:space="preserve">
+    <value>ذخیره نوار ابزار</value>
+  </data>
+  <data name="lblUseJquery.Text" xml:space="preserve">
+    <value>Use jQuery Adapter?</value>
+  </data>
+  <data name="lblHeight.Text" xml:space="preserve">
+    <value>ارتفاع ویرایشگر (px' or '%') :</value>
+  </data>
+  <data name="lblWidth.Text" xml:space="preserve">
+    <value>عرض ویرایشگر ('px' or '%') :</value>
+  </data>
+  <data name="lblImExport.Text" xml:space="preserve">
+    <value>درون ریزی / برون ریزی تنظیمات فعلی ...</value>
+  </data>
+  <data name="lblResizeHeight.Text" xml:space="preserve">
+    <value>تغییر سایز ارتفاع به صورت پیش فرض:</value>
+  </data>
+  <data name="lblResizeWidth.Text" xml:space="preserve">
+    <value>تغییر سایز عرض به صورت پیش فرض:</value>
+  </data>
+  <data name="lnkExport.Text" xml:space="preserve">
+    <value>برون‌ریزی</value>
+  </data>
+  <data name="lnkImport.Text" xml:space="preserve">
+    <value>درون‌ریزی</value>
+  </data>
+  <data name="BadImportXml.Text" xml:space="preserve">
+    <value>اشتباه است یا فایل XML نادرست است.</value>
+  </data>
+  <data name="Export.Text" xml:space="preserve">
+    <value>برون ریزی تنظیمات ویرایشگر فعلی</value>
+  </data>
+  <data name="Imported.Text" xml:space="preserve">
+    <value>درون ریزی تنظیمات ویرایشگر</value>
+  </data>
+  <data name="lblInjectSyntaxJs.Text" xml:space="preserve">
+    <value>Inject Link to SyntaxHighlighter JS:</value>
+  </data>
+  <data name="UploadFolderLabel.Text" xml:space="preserve">
+    <value>پوشه پیش فرض آپلود :</value>
+  </data>
+  <data name="BrowserRootFolder.Text" xml:space="preserve">
+    <value>مرورگر پوشه ریشه:</value>
+  </data>
+  <data name="lblAutoCreateFileThumbNails.Text" xml:space="preserve">
+    <value>ایجاد عکس بند انگشتی برای پیش نمایش</value>
+  </data>
+  <data name="lblShowPageLinksTabFirst.Text" xml:space="preserve">
+    <value>نمایش لینک های صفحه در تب اول:</value>
+  </data>
+  <data name="lblUseAnchorSelector.Text" xml:space="preserve">
+    <value>Use Anchor Selector (Automatically Finds All Anchors on the Selected Page):</value>
+  </data>
+  <data name="FileListViewModeLabel.Text" xml:space="preserve">
+    <value>Default File List View Mode:</value>
+  </data>
+  <data name="SettingsExportTitle.Text" xml:space="preserve">
+    <value>برون ریزی تنظیمات</value>
+  </data>
+  <data name="SettingsImportTitle.Text" xml:space="preserve">
+    <value>درون ریزی تنظیمات</value>
+  </data>
+  <data name="ExportNow.Text" xml:space="preserve">
+    <value>در حال برون ریزی</value>
+  </data>
+  <data name="ImportNow.Text" xml:space="preserve">
+    <value>در حال درون ریزی</value>
+  </data>
+  <data name="FileListPageSizeLabel.Text" xml:space="preserve">
+    <value>File List Page Size (0=Non Paging):</value>
+  </data>
+  <data name="Remove.Help" xml:space="preserve">
+    <value>حذف تنظیمات برای {0} جاری است.</value>
+  </data>
+  <data name="Remove.Text" xml:space="preserve">
+    <value>حذف تنظیمات {0}</value>
+  </data>
+  <data name="RemoveAll.Help" xml:space="preserve">
+    <value>حذف {0} تنظیمات کل سایت.</value>
+  </data>
+  <data name="RemoveAll.Text" xml:space="preserve">
+    <value>حذف تمام تنظیمات {0}</value>
+  </data>
+  <data name="CreateGroupLabel.Text" xml:space="preserve">
+    <value>ایجاد گروه جدید</value>
+  </data>
+  <data name="CreateGroupTitle.Text" xml:space="preserve">
+    <value>افزودن گروه جدید به مجموعه نوار ابزار</value>
+  </data>
+  <data name="DeleteGroup.Text" xml:space="preserve">
+    <value>حذف این گروه از نوار ابزار ؟</value>
+  </data>
+  <data name="DeleteToolbarButton.Text" xml:space="preserve">
+    <value>حذف این دکمه از نوار ابزار؟</value>
+  </data>
+  <data name="EditGroupName.Text" xml:space="preserve">
+    <value>کلیک برای ویرایش نام این گروه</value>
+  </data>
+  <data name="NewGroupName.Text" xml:space="preserve">
+    <value>گروه جدید</value>
+  </data>
+  <data name="SaveGroupName.Text" xml:space="preserve">
+    <value>ذخیره نام گروه</value>
+  </data>
+  <data name="lblToolbarPriority.Text" xml:space="preserve">
+    <value>اولویت نوار ابزار :</value>
+  </data>
+  <data name="ToolbarGroupsLabel.Text" xml:space="preserve">
+    <value>گروه های نوار ابزار</value>
+  </data>
+  <data name="CodeMirrorLabel.Text" xml:space="preserve">
+    <value>CodeMirror پوسته (برای منابع با نگارش Highlighting):</value>
+  </data>
+  <data name="lblSkin.Text" xml:space="preserve">
+    <value>پوسته:</value>
+  </data>
+  <data name="NoJava.Text" xml:space="preserve">
+    <value>&lt;strong&gt;CKEditor requires JavaScript to run&lt;/strong&gt;. In a browser with no JavaScript support, like yours, you should still see the contents (HTML data) and you should be able to edit it normally, without a rich editor interface.</value>
+  </data>
+  <data name="lblEditorConfig.Text" xml:space="preserve">
+    <value>پیکربندی ویرایشگر</value>
+  </data>
+  <data name="ModuleError.Text" xml:space="preserve">
+    <value>The Editor Settings for an Module Instance can only be viewed and loaded from within the Module Instance.</value>
+  </data>
+  <data name="ModuleHeader.Text" xml:space="preserve">
+    <value>CKEditor پیکربندی مدیریت پروایدر</value>
+  </data>
+  <data name="PortalOnlyLabel.Text" xml:space="preserve">
+    <value>نمایش تنظیمات فقط برای این سایت و یا برای همه سایت ها موجود در هسته ؟</value>
+  </data>
+  <data name="PortalOnly.Text" xml:space="preserve">
+    <value>این سایت تنها</value>
+  </data>
+  <data name="Wait.Text" xml:space="preserve">
+    <value>لطفا صبر کنید ....</value>
+  </data>
+  <data name="WaitMessage.Text" xml:space="preserve">
+    <value>در حال بارگذاری گزینه های صفحه.</value>
+  </data>
+  <data name="ModuleHasSettingLabel.Text" xml:space="preserve">
+    <value>شامل تنظیمات ماژول</value>
+  </data>
+  <data name="ModuleNoSettingLabel.Text" xml:space="preserve">
+    <value>شامل تنظیمات ماژول نمیشود</value>
+  </data>
+  <data name="PageHasSettingLabel.Text" xml:space="preserve">
+    <value>شامل تنظیمات صفحه</value>
+  </data>
+  <data name="PageNoSettingLabel.Text" xml:space="preserve">
+    <value>شامل تنظیمات صفحه نمیشود</value>
+  </data>
+  <data name="PortalHasSettingLabel.Text" xml:space="preserve">
+    <value>شامل تنظیمات سایت</value>
+  </data>
+  <data name="PortalNoSettingLabel.Text" xml:space="preserve">
+    <value>شامل تنظیمات سایت نمیشود</value>
+  </data>
+  <data name="IconLegendLabel.Text" xml:space="preserve">
+    <value>آیکون راهنما</value>
+  </data>
+  <data name="EditorConfigWarning.Text" xml:space="preserve">
+    <value>&lt;strong&gt;Information:&lt;/strong&gt; The Settings below are only for Experts, please modify them only if you are know what you are doing. To find out more about the Settings below visit the &lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;CKEditor JavaScript API Documentation Page&lt;/strong&gt;&lt;/a&gt;. You can leave the Settings blank to load the default Settings, when the Editor is loaded.</value>
+  </data>
+  <data name="ModuleInstance.Text" xml:space="preserve">
+    <value>ماژول</value>
+  </data>
+  <data name="Page.Text" xml:space="preserve">
+    <value>صفحه</value>
+  </data>
+  <data name="Portal.Text" xml:space="preserve">
+    <value>سایت</value>
+  </data>
+  <data name="RemoveModuleChild.Help" xml:space="preserve">
+    <value>حذف تنظیمات از همه ماژول ها در صفحه فعلی</value>
+  </data>
+  <data name="RemoveModuleChild.Text" xml:space="preserve">
+    <value>حذف همه تنظیمات ماژول در صفحه</value>
+  </data>
+  <data name="RemovePageChild.Help" xml:space="preserve">
+    <value>حذف تمام تنظیمات صفحه فرزند برای صفحه جاری.</value>
+  </data>
+  <data name="RemovePageChild.Text" xml:space="preserve">
+    <value>حذف تنظیمات همه صفحات فرزندان</value>
+  </data>
+  <data name="RowBreak.Text" xml:space="preserve">
+    <value>جدا کننده سطر</value>
+  </data>
+  <data name="AddRowBreakLabel.Text" xml:space="preserve">
+    <value>افزودن جدا کننده سطر</value>
+  </data>
+  <data name="AddRowBreakTitle.Text" xml:space="preserve">
+    <value>افزودن جدا کننده جدید سطر به مجموعه نوار ابزار</value>
+  </data>
+  <data name="DefaultLinkMode0.Text" xml:space="preserve">
+    <value>آدرس نسبی</value>
+  </data>
+  <data name="DefaultLinkMode1.Text" xml:space="preserve">
+    <value>آدرس مطلق</value>
+  </data>
+  <data name="DefaultLinkMode2.Text" xml:space="preserve">
+    <value>آدرس نسبی امن</value>
+  </data>
+  <data name="DefaultLinkMode3.Text" xml:space="preserve">
+    <value>آدرس مطلق امن</value>
+  </data>
+  <data name="DefaultLinkModeLabel.Text" xml:space="preserve">
+    <value>حالت پیش فرض لینک:</value>
+  </data>
+  <data name="DetailView.Text" xml:space="preserve">
+    <value>نمایش جزئیات</value>
+  </data>
+  <data name="IconsView.Text" xml:space="preserve">
+    <value>آیکون نمایش</value>
+  </data>
+  <data name="ListView.Text" xml:space="preserve">
+    <value>نمایش لیست</value>
+  </data>
+  <data name="BlanktextTT.Text" xml:space="preserve">
+    <value>این متن پیش فرض زمانی نمایش داده می شود که محتوای این ماژول خالی است.</value>
+  </data>
+  <data name="NewsArcticlesArticlesList.Text" xml:space="preserve">
+    <value>انتخاب یک مطلب:</value>
+  </data>
+  <data name="NewsArcticlesModuleList.Text" xml:space="preserve">
+    <value>انتخاب صفحه و اخبار ماژول به عنوان مثال:</value>
+  </data>
+  <data name="ToolbarNameMissing.Text" xml:space="preserve">
+    <value>شما باید یک نام نوار ابزار را وارد کنید.</value>
+  </data>
+  <data name="ToolbarSetCreated.Text" xml:space="preserve">
+    <value>نوار ابزار جدید "{0}" ساخته شد.</value>
+  </data>
+  <data name="ToolbarSetDeleted.Text" xml:space="preserve">
+    <value>نواز ابزار انتخاب شده حذف شد .</value>
+  </data>
+  <data name="ToolbarSetSaved.Text" xml:space="preserve">
+    <value>نوار ابزار ذخیره شد</value>
+  </data>
+  <data name="CustomJsFileLabel.Text" xml:space="preserve">
+    <value>سفارشی JS فایل:</value>
+  </data>
+  <data name="OverrideFileOnUploadLabel.Text" xml:space="preserve">
+    <value>نادیده گرفتن فایل اگر وجود دارد در آپلود، در غیر این صورت یک فایل جدید با نام _1 ایجاد خواهد شد:</value>
+  </data>
+  <data name="CopyPageChild.Help" xml:space="preserve">
+    <value>کپی کردن تنظیمات صفحه فعلی به تمام صفحات فرزند</value>
+  </data>
+  <data name="CopyPageChild.Text" xml:space="preserve">
+    <value>کپی تنظیمات به صفحات فرزند</value>
+  </data>
+  <data name="lblInfoCopyAll.Text" xml:space="preserve">
+    <value>تنظیمات برای تمام صفحات فرزندان کپی شده است.</value>
+  </data>
+  <data name="SizeLimitLabel.Text" xml:space="preserve">
+    <value>محدودیت حجم آپلود فایل:</value>
+  </data>
+  <data name="UploadFileLimitLabel.Text" xml:space="preserve">
+    <value>محدودیت آپلود فایل:</value>
+  </data>
+</root>

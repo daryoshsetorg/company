@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DropAuthentication0.ErrorMessage">
+    <value xml:space="preserve">Die Verzeichniseinstellungen wurden gespeichert.</value>
+  </data>
+  <data name="DropAuthentication1.ErrorMessage">
+    <value xml:space="preserve">Fehler bei der Dropbox-Anmeldung, bitte prüfen Sie Ihre Eingabe.</value>
+  </data>
+  <data name="DropAuthentication2.ErrorMessage">
+    <value xml:space="preserve">Der übergeordnete Ordner existiert nicht, bitte prüfen Sie Ihre Eingabe.</value>
+  </data>
+  <data name="MultipleFolderMappingsWithSameSettings.ErrorMessage">
+    <value xml:space="preserve">Es gibt bereits eine andere Ordner-Abbildung die dieselben Einstellungen verwendet. Bitte verwenden Sie einen anderen Zielordner.</value>
+  </data>
+  <data name="ParentFolder.ErrorMessage">
+    <value xml:space="preserve">Der übergeordnete Ordner ist nicht korrekt angegeben. </value>
+  </data>
+  <data name="plAccessKeyId.Help">
+    <value xml:space="preserve">Geben Sie den Anwendungsschlüssel an..</value>
+  </data>
+  <data name="plAccessKeyId.Text">
+    <value xml:space="preserve">Anwendungsschlüssel</value>
+  </data>
+  <data name="plDirectLink.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, damit der Dateipfad auf die URL der Box selbst verweist (andernfalls wird der Pfad per LinkClick.aspx generiert.&lt;br /&gt;
+Hinweis: direkte Links stehen nur bei kostenpflichtigen Box-Konten zur Verfügung.</value>
+  </data>
+  <data name="plDirectLink.Text">
+    <value xml:space="preserve">Direkten Link verwenden</value>
+  </data>
+  <data name="plParentFolder.Help">
+    <value xml:space="preserve">Geben Sie den Namen eines Box-Ordners an, wenn Sie diesen speziellen Ordner einbinden wollen, z.B. "Dokumente" oder "Dokumente/PDFs2015, um diesen Ordner oder einen Unterordner abzubilden.
+&lt;br/&gt;Hinweis: lassen Sie dieses Feld leer, wenn Sie den Basisordner Ihres Box-Kontos einbinden wollen.</value>
+  </data>
+  <data name="plParentFolder.Text">
+    <value xml:space="preserve">Übergeordneter Box-Ordner</value>
+  </data>
+  <data name="plSecretAccessKey.Help">
+    <value xml:space="preserve">Geben Sie hier die geheime Phrase ein.</value>
+  </data>
+  <data name="plSecretAccessKey.Text">
+    <value xml:space="preserve">Geheime Phrase </value>
+  </data>
+  <data name="TestConnection.Text">
+    <value xml:space="preserve">Verbinfung testen</value>
+  </data>
+  <data name="valAccessKeyId.ErrorMessage">
+    <value xml:space="preserve">Sie müssen den Anwendungsschlüssel angeben.</value>
+  </data>
+  <data name="valSecretAccessKey.ErrorMessage">
+    <value xml:space="preserve">Sie müssen den Anwendungsschlüssel angeben.</value>
+  </data>
+</root>

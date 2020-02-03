@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema_Localized Dnnplus.ir 2018
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System" name="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.DefaultModifiers" type="System.CodeDom.MemberAttributes, System">
+    <value>Private</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.TrayLargeIcon" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="$this.TrayAutoArrange" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="cmdCancel.Text" xml:space="preserve">
+    <value>بستن پنچره</value>
+  </data>
+  <data name="cmdClose.Text" xml:space="preserve">
+    <value>تایید</value>
+  </data>
+  <data name="lblConFiles.Text" xml:space="preserve">
+    <value>شامل فایل ها:</value>
+  </data>
+  <data name="lblCurrent.Text" xml:space="preserve">
+    <value>Current Directory:</value>
+  </data>
+  <data name="lblSubDirs.Text" xml:space="preserve">
+    <value>دایرکتوری ها:</value>
+  </data>
+  <data name="cmdDownload.Help" xml:space="preserve">
+    <value>دانلود فایل انتخاب شده.</value>
+  </data>
+  <data name="cmdDownload.Text" xml:space="preserve">
+    <value>دانلود فایل</value>
+  </data>
+  <data name="cmdUpload.Help" xml:space="preserve">
+    <value>آپلود یک فایل جدید.</value>
+  </data>
+  <data name="cmdUpload.Text" xml:space="preserve">
+    <value>آپلود فایل</value>
+  </data>
+  <data name="Error1.Text" xml:space="preserve">
+    <value>کاربر اجازه انجام این کار را ندارند.</value>
+  </data>
+  <data name="Error2.Text" xml:space="preserve">
+    <value>این پسوند مجاز نیست.</value>
+  </data>
+  <data name="Error3.Text" xml:space="preserve">
+    <value>این پسوند مجاز نیست.</value>
+  </data>
+  <data name="Error4.Text" xml:space="preserve">
+    <value>کاربر محترم اجازه دسترسی به این پوشه وجود ندارد.</value>
+  </data>
+  <data name="Error5.Text" xml:space="preserve">
+    <value>هیچ فایلی انتخاب نشده است.</value>
+  </data>
+  <data name="cmdUploadCancel.Text" xml:space="preserve">
+    <value>لغو آپلود</value>
+  </data>
+  <data name="cmdUploadNow.Text" xml:space="preserve">
+    <value>در حال آپلود</value>
+  </data>
+  <data name="lblUrlType.Text" xml:space="preserve">
+    <value>انتخاب نوع آدرس:</value>
+  </data>
+  <data name="lblChoosetab.Text" xml:space="preserve">
+    <value>انتخاب صفحه:</value>
+  </data>
+  <data name="cmdCreate.Help" xml:space="preserve">
+    <value>ساخت یک زیر پوشه جدید</value>
+  </data>
+  <data name="cmdCreate.Text" xml:space="preserve">
+    <value>ساخت یک پوشه جدید</value>
+  </data>
+  <data name="cmdDelete.Help" xml:space="preserve">
+    <value>حذف فایل های انتخاب شده.</value>
+  </data>
+  <data name="cmdDelete.Text" xml:space="preserve">
+    <value>حذف فایل</value>
+  </data>
+  <data name="cmdCreateFolder.Text" xml:space="preserve">
+    <value>در حال ساخت</value>
+  </data>
+  <data name="chkAspect.Text" xml:space="preserve">
+    <value>حفظ نسبت ابعاد</value>
+  </data>
+  <data name="chkHumanFriendy.Text" xml:space="preserve">
+    <value>Human Friendly URL</value>
+  </data>
+  <data name="cmdResizeCancel.Text" xml:space="preserve">
+    <value>لغو تغییر سایز</value>
+  </data>
+  <data name="cmdResizeNow.Text" xml:space="preserve">
+    <value>در حال تغییر سایز</value>
+  </data>
+  <data name="cmdResizer.Help" xml:space="preserve">
+    <value>ویرایش تصویر انتخاب شده.</value>
+  </data>
+  <data name="cmdResizer.Text" xml:space="preserve">
+    <value>ویرایشگر تصویر</value>
+  </data>
+  <data name="lblHeight.Text" xml:space="preserve">
+    <value>ارتفاع جدید:</value>
+  </data>
+  <data name="lblThumbName.Text" xml:space="preserve">
+    <value>نام فایل جدید:</value>
+  </data>
+  <data name="lblWidth.Text" xml:space="preserve">
+    <value>عرض جدید:</value>
+  </data>
+  <data name="AreYouSure.Text" xml:space="preserve">
+    <value>آیا شما مطمئن هستید که میخواهید این فایل را حذف کنید؟</value>
+  </data>
+  <data name="lblImgQuality.Text" xml:space="preserve">
+    <value>کیفیت تصویر (فشرده سازی):</value>
+  </data>
+  <data name="cmdCrop.Text" xml:space="preserve">
+    <value>برش</value>
+  </data>
+  <data name="cmdCropCancel.Text" xml:space="preserve">
+    <value>لغو ویرایش</value>
+  </data>
+  <data name="cmdCropNow.Text" xml:space="preserve">
+    <value>ایجاد تصویر جدید</value>
+  </data>
+  <data name="cmdResize2.Text" xml:space="preserve">
+    <value>تغییر سایز</value>
+  </data>
+  <data name="cmdRotate.Text" xml:space="preserve">
+    <value>چرخش</value>
+  </data>
+  <data name="cmdZoom.Text" xml:space="preserve">
+    <value>زوم</value>
+  </data>
+  <data name="imgOriginal.Text" xml:space="preserve">
+    <value>تصویر اصلی (کوچک شده برای تناسب با صفحه نمایش)</value>
+  </data>
+  <data name="imgResized.Text" xml:space="preserve">
+    <value>پیش نمایش از تصویر تغییر سایز (کوچک شده برای تناسب صفحه نمایش)</value>
+  </data>
+  <data name="lblClearPreview.Text" xml:space="preserve">
+    <value>پاک سازی پیش نمایش</value>
+  </data>
+  <data name="lblCropInfo.Text" xml:space="preserve">
+    <value>Here you will see the edited new image</value>
+  </data>
+  <data name="lblOriginal.Text" xml:space="preserve">
+    <value>اصلی:</value>
+  </data>
+  <data name="lblOtherTools.Text" xml:space="preserve">
+    <value>دیگر تنظیمات:</value>
+  </data>
+  <data name="lblPreview.Text" xml:space="preserve">
+    <value>پیش نمایش:</value>
+  </data>
+  <data name="lblResizeHeader.Text" xml:space="preserve">
+    <value>ویرایشگر تصویر : تغییر سایز</value>
+  </data>
+  <data name="lblResizeHeader2.Text" xml:space="preserve">
+    <value>ویرایشگر تصویر  : برش, زوم یا چرخش</value>
+  </data>
+  <data name="lblShowPreview.Text" xml:space="preserve">
+    <value>نمایش پیش نمایش</value>
+  </data>
+  <data name="cmdCreateCancel.Text" xml:space="preserve">
+    <value>لغو</value>
+  </data>
+  <data name="lblNewFoldName.Text" xml:space="preserve">
+    <value> نام پوشه ی جدید:</value>
+  </data>
+  <data name="LabelAnchor.Text" xml:space="preserve">
+    <value>انتخاب یک صفحه لنگر:</value>
+  </data>
+  <data name="TrackClicks.Text" xml:space="preserve">
+    <value>Track Number of Times This Link Is Clicked:</value>
+  </data>
+  <data name="absLnk.Text" xml:space="preserve">
+    <value>آدرس مطلق  - &lt;em&gt;'http://www.MyWebsite.com/Images/MyImage.jpg'&lt;/em&gt;</value>
+  </data>
+  <data name="lnkClick.Text" xml:space="preserve">
+    <value>آدرس نسبی امن - &lt;em&gt;'/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>
+  </data>
+  <data name="relLnk.Text" xml:space="preserve">
+    <value>آدرس نسبی  - &lt;em&gt;'/Images/MyImage.jpg'&lt;/em&gt;</value>
+  </data>
+  <data name="Wait.Text" xml:space="preserve">
+    <value>لطفا صبر کنید ...</value>
+  </data>
+  <data name="WaitMessage.Text" xml:space="preserve">
+    <value>Loading Page and Parsing Anchors.</value>
+  </data>
+  <data name="ExtraTabOptions.Text" xml:space="preserve">
+    <value>گزینه های تب:</value>
+  </data>
+  <data name="LabelTabLanguage.Text" xml:space="preserve">
+    <value>افزودنی های پارامتر زبان:</value>
+  </data>
+  <data name="None.Text" xml:space="preserve">
+    <value>هیچ</value>
+  </data>
+  <data name="FileLink.Text" xml:space="preserve">
+    <value>لینک فایل</value>
+  </data>
+  <data name="PageLink.Text" xml:space="preserve">
+    <value>لینک صفحه</value>
+  </data>
+  <data name="DetailView.Text" xml:space="preserve">
+    <value>نمایش جزئیات</value>
+  </data>
+  <data name="DetailViewTitle.Text" xml:space="preserve">
+    <value>هر فایل با یک تصویر بزرگ  جهت پیش نمایش، نام فایل و اطلاعات فایل را نشان می دهد.</value>
+  </data>
+  <data name="IconsView.Text" xml:space="preserve">
+    <value>نمایش آیکون ها</value>
+  </data>
+  <data name="IconsViewTitle.Text" xml:space="preserve">
+    <value>تمام فایل های با پیش نمایش تصویر به به حالت کاشی بندی نمایش دهد</value>
+  </data>
+  <data name="ListView.Text" xml:space="preserve">
+    <value>نمایش لیست</value>
+  </data>
+  <data name="ListViewTitle.Text" xml:space="preserve">
+    <value>هر فایل با یک تصویر کوچک جهت پیش نمایش، نام فایل و اطلاعات فایل را نشان می دهد.</value>
+  </data>
+  <data name="FirstPage.Text" xml:space="preserve">
+    <value>صفحه اول</value>
+  </data>
+  <data name="GoTo.Text" xml:space="preserve">
+    <value>برو به</value>
+  </data>
+  <data name="LastPage.Text" xml:space="preserve">
+    <value>صفحه اخر</value>
+  </data>
+  <data name="NextPage.Text" xml:space="preserve">
+    <value>صفحه بعدی</value>
+  </data>
+  <data name="PreviousPage.Text" xml:space="preserve">
+    <value>صفحه قبل</value>
+  </data>
+  <data name="SortAscending.Help" xml:space="preserve">
+    <value>مرتب کردن بر اساس فایل با نام فایل صعودی.</value>
+  </data>
+  <data name="SortAscending.Text" xml:space="preserve">
+    <value>ترتیب صعودی</value>
+  </data>
+  <data name="SortDescending.Help" xml:space="preserve">
+    <value>مرتب کردن بر اساس فایل با نام فایل به ترتیب نزولی.</value>
+  </data>
+  <data name="SortDescending.Text" xml:space="preserve">
+    <value>ترتیب نزولی</value>
+  </data>
+  <data name="lnkAbsClick.Text" xml:space="preserve">
+    <value>آدرس مطلق امن  - &lt;em&gt;'http://www.MyWebsite.com/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>
+  </data>
+  <data name="SpaceUsed.Text" xml:space="preserve">
+    <value>فضای مورد استفاده: {0} از {1}</value>
+  </data>
+  <data name="UnlimitedSpace.Text" xml:space="preserve">
+    <value>[unlimited]</value>
+  </data>
+  <data name="Syncronize.Help" xml:space="preserve">
+    <value>همگام سازی پوشه با پایگاه</value>
+  </data>
+  <data name="Syncronize.Text" xml:space="preserve">
+    <value>همگام سازی پوشه</value>
+  </data>
+  <data name="FileSizeRestriction.Text" xml:space="preserve">
+    <value>محدودیت حجم آپلود {0} MB میباشد. &lt;br /&gt;پسوند های مجاز عبارت است از : "{1}"</value>
+  </data>
+  <data name="FileToBig.Text" xml:space="preserve">
+    <value>فایل خیلی بزرگ است برای آپلود.</value>
+  </data>
+  <data name="OverrideFile.Text" xml:space="preserve">
+    <value>Override file if it already exists, otherwise a new file with underscore _1 will be created?</value>
+  </data>
+  <data name="FileToBigMessage.Text" xml:space="preserve">
+    <value>فایل آپلود شده بزرگتر از اندازه پرونده مجاز است.</value>
+  </data>
+  <data name="AddFiles.Text" xml:space="preserve">
+    <value>افزودن فایل(ها) ...</value>
+  </data>
+  <data name="DropHere.Text" xml:space="preserve">
+    <value>رها کردن فایل یا فایل ها در این قسمت</value>
+  </data>
+  <data name="StartUploads.Text" xml:space="preserve">
+    <value>شروع آپلود (ها)</value>
+  </data>
+  <data name="RootFolder.Text" xml:space="preserve">
+    <value>پوشه ریشه</value>
+  </data>
+  <data name="BrowserModus.Image.Text" xml:space="preserve">
+    <value>تصویر</value>
+  </data>
+  <data name="BrowserModus.Link.Text" xml:space="preserve">
+    <value>لینک</value>
+  </data>
+  <data name="Created.Text" xml:space="preserve">
+    <value>ایجاد شد.</value>
+  </data>
+  <data name="lblBrowserModus.Text" xml:space="preserve">
+    <value>مرورگر حالت: {0}</value>
+  </data>
+  <data name="Size.Text" xml:space="preserve">
+    <value>سایز</value>
+  </data>
+</root>

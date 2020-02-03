@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_.Text">
+    <value>Active-Directory-Authentifizierung</value>
+  </data>
+  <data name="plAuthentication.Text">
+    <value>aktiv:</value>
+  </data>
+  <data name="plAuthentication.Help">
+    <value>Aktivieren Sie diese Option, um den Active Directory-Anmeldedienst für diese Website einsetzen.</value>
+  </data>
+  <data name="chkAuthentication.Text">
+    <value />
+  </data>
+  <data name="plSynchronizeRole.Text">
+    <value>Benutzergruppen synchronisieren?</value>
+  </data>
+  <data name="plSynchronizeRole.Help">
+    <value>Aktivieren Sie diese Option, um die Website-Benutzergruppen bei jeder Anmeldung mit den Sicherheitsgruppen des Active-Directory zu synchronisieren</value>
+  </data>
+  <data name="chkSynchronizeRole.Text">
+    <value />
+  </data>
+  <data name="plSynchornizePassword.Text">
+    <value>Kennwort synchronisieren?</value>
+  </data>
+  <data name="plSynchornizePassword.Help">
+    <value>Aktivieren Sie diese Option, um bei der Anmeldung das Website-Kennwort auf das Domänen-Kennwort zu setzen, falls beide nicht übereinstimmen.</value>
+  </data>
+  <data name="chkSynchronizePassword.Text">
+    <value />
+  </data>
+  <data name="plProvider.Text">
+    <value>Anmeldedienst</value>
+  </data>
+  <data name="plProvider.Help">
+    <value>Wähen Sie den Anmeldedienst für diese Website</value>
+  </data>
+  <data name="plAuthenticationType.Text">
+    <value>Authentifizierungstyp</value>
+  </data>
+  <data name="plAuthenticationType.Help">
+    <value>Wählen Sie den Authentifizierungstyp für diese Website (Delegation ist empfohlen)</value>
+  </data>
+  <data name="plRootDomain.Text">
+    <value>Basisdomäne:</value>
+  </data>
+  <data name="plRootDomain.Help">
+    <value>gebe Sie hier die Basisdomäne im Format yourdomain.com oder DC=yourdomain,DC=com or LDAP://mydomain.com ein. Lassen Sie dieses Feld leer, wenn Sie Active-Directory-Elemente aus dem Basisknoten abrufen wollen. Falls Sie LDAP verwenden, geben Sie bitte den vierstelligen Präfix in Großbuchstaben ein. </value>
+  </data>
+  <data name="plUserName.Text">
+    <value>Anmeldename:</value>
+  </data>
+  <data name="plUserName.Help">
+    <value>Geben Sie hier den Namen eines Benutzers an, über den der Zugriff auf das Active Directory erfolgt.</value>
+  </data>
+  <data name="plPassword.Text">
+    <value>Kennwort:</value>
+  </data>
+  <data name="plPassword.Help">
+    <value>Kennwort des Benutzers</value>
+  </data>
+  <data name="plConfirm.Text">
+    <value>Kennwort bestätigen:</value>
+  </data>
+  <data name="plConfirm.Help">
+    <value>Kennwort bestätigen</value>
+  </data>
+  <data name="plEmailDomain.Text">
+    <value>E-Mail-Domäne:</value>
+  </data>
+  <data name="plEmailDomain.Help">
+    <value>Geben Sie hier die E-Mail-Domäne an, wenn Ihr Netzwerk über kein Active Directory verfügt (bleibt üblicherweise leer)</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value>speichern</value>
+  </data>
+  <data name="[Global Catalog Status].Text">
+    <value>Zugriff auf globalen Katalog:</value>
+  </data>
+  <data name="[Root Domain Status].Text">
+    <value>Basisdomäne wird geprüft:</value>
+  </data>
+  <data name="[LDAP Status].Text">
+    <value>Zugriff auf LDAP:</value>
+  </data>
+  <data name="[Network Domains Status].Text">
+    <value>Alle Domänen im Netzwerk suchen:</value>
+  </data>
+  <data name="[LDAP Error Message].Text">
+    <value>LDAP ist nicht erreichbar, um die Domänendaten abzurufen.</value>
+  </data>
+  <data name="OK.Text">
+    <value>ok</value>
+  </data>
+  <data name="FAIL.Text">
+    <value>FEHLER</value>
+  </data>
+  <data name="AuthProviderError.Text">
+    <value>Der Standard-Anmeldedienst aus der Datei web.config ist nicht korrekt konfiguriert. Die Authentifizierungseinstellungen sind daher deaktiviert.</value>
+  </data>
+  <data name="SameDomainError.Text">
+    <value>Der Domänenname des angemeldeten Benutzers ({0}) entspricht dem Server-Namen ({1}). Dies zeigt üblicherweise an, dass der Server kein Mitglied der Domäne ist. Die Authentifizierungseinstellungen sind daher deaktiviert.</value>
+  </data>
+  <data name="Title.Text">
+    <value>Active-Directory-Einstellungen</value>
+  </data>
+  <data name="FullTrustRequired.Text">
+    <value>ASP.Net Full Trust ist notwendig, um den Active-Directory-Anmeldedienst zu verwenden. Ändern Sie in der Datei web.config den TRUST- Eintrag im Abschnitt SYSTEM.WEB auf Full "Full" oder wenden Sie sich an den Betreuer des Webservers.</value>
+  </data>
+  <data name="plAutoIP.Help">
+    <value>geben Sie die  IP-Adresse oder Bereich ein, für den die automatisch Anmeldung aktiviert werden soll, "192.168.0.1-192 - 192.168.0.100" für eine IP in diesem Bereich oder "192.168.0.50" für diese einzelne IP. Ein Beispiel könnte so aussehen: "192.168.0.100;192.168.0.1-192.168.0.100".</value>
+  </data>
+  <data name="plAutoIP.Text">
+    <value>IP-Adressen automatisch anmelden(optional):</value>
+  </data>
+  <data name="plStripDomainName.Help">
+    <value>Sie können hier festlegen, dass in der Website die Benutzerkonten ohne den Domänenprefix angelegt werden. Achten Sie darauf, dass keiner der Benutzer bereits existiert.</value>
+  </data>
+  <data name="plStripDomainName.Text">
+    <value>Domänenname entfernen (optional)</value>
+  </data>
+  <data name="plHidden.Help">
+    <value>Aktivieren Sie diese Option, um die Windows Anmelde-Schaltfläche im Anmeldefenster auszublenden.</value>
+  </data>
+  <data name="plHidden.Text">
+    <value>Anmelde-Schaltfläche ausblenden?</value>
+  </data>
+  <data name="IntegratedWarning.Text">
+    <value>Warnung: das automatische anmelden funktioniert in IIS7 nur, wenn der Anwendungspool auf "Klassisch" eingestellt ist. Diese Seite scheint stattdessen im integrierten Pipeline-Modus zu laufen.</value>
+  </data>
+  <data name="InValidIPAddress.Text">
+    <value>ist keine gültige IP-Adresse</value>
+  </data>
+  <data name="plDefaultDomain.Help">
+    <value>Wenn Sie hier die Standarddomäne eingeben, können sich die Benutzer nur mit Ihrem ANmeldenamen (anstelle von Domäne\Anmeldename) anmelden.</value>
+  </data>
+  <data name="plDefaultDomain.Text">
+    <value>Standard-Domäne</value>
+  </data>
+  <data name="plAutoCreate.Help">
+    <value>Aktivieren Sie diese Option, wenn Benutzer des Active Directory sich erst dann an der Website anmelden können, wenn dort ein Konto für sie angelegt wurde.</value>
+  </data>
+  <data name="plAutoCreate.Text">
+    <value>Benutzerkonten nicht automatisch erstellen:</value>
+  </data>
+  <data name="plBots.Help">
+    <value>Geben Sie per Komma getrennt die Namen der Suchmaschinen an, die Ihre Website besuchen dürfen (z.B: gsa-crawler, MS Search 5.0 Robot).</value>
+  </data>
+  <data name="plBots.Text">
+    <value>Zugelassene Such-Bots</value>
+  </data>
+</root>

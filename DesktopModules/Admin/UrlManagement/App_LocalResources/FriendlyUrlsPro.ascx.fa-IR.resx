@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="enable301Redirects.Text">
+    <value xml:space="preserve">301-Weiterleitungen von "alten" auf neue URLs</value>
+  </data>
+  <data name="enable301RedirectsLabel.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, wenn Sie alte "nicht SEO-freundliche" URLs auf die neuen URLs weiterleiten wollen.</value>
+  </data>
+  <data name="enable301RedirectsLabel.Text">
+    <value xml:space="preserve">"Alte" URLs auf neue SEO-freundliche URLs weiterleiten:</value>
+  </data>
+  <data name="enableSystemGeneratedUrls.Text">
+    <value xml:space="preserve">Seiten-URL per Sonderzeichen verbinden</value>
+  </data>
+  <data name="enableSystemGeneratedUrlsLabel.Help">
+    <value xml:space="preserve">Sie können hier festlegen, wie das System URLs für Seiten automatisch generiert.</value>
+  </data>
+  <data name="enableSystemGeneratedUrlsLabel.Text">
+    <value xml:space="preserve">automatisch generierte URL:</value>
+  </data>
+  <data name="FriendlyUrl.Text">
+    <value xml:space="preserve">SEO-freundliche URLs</value>
+  </data>
+  <data name="minusCharacter.Text">
+    <value xml:space="preserve">"-" (z.B. Seiten-Titel)</value>
+  </data>
+  <data name="pageExtensionHandling.Text">
+    <value xml:space="preserve">Dateierweiterung verwenden</value>
+  </data>
+  <data name="pageExtensionHandlingAlwaysUse.Text">
+    <value xml:space="preserve">Seiten-URLs enden mit {0}</value>
+  </data>
+  <data name="pageExtensionHandlingLabel.Help">
+    <value xml:space="preserve">Legen Sie hier fest, welche Dateierweiterung für die Seiten Ihrer Website verwendet werden soll.</value>
+  </data>
+  <data name="pageExtensionHandlingLabel.Text">
+    <value xml:space="preserve">Verwendung von Dateierweiterungen:</value>
+  </data>
+  <data name="pageExtensionHandlingNever.Text">
+    <value xml:space="preserve">Seiten-URLs haben keine Erweiterung</value>
+  </data>
+  <data name="plUseFriendlyUrls.Help">
+    <value xml:space="preserve">Aktivieren Sie diese Option, um SEO-freundliche URLs zu verwenden.</value>
+  </data>
+  <data name="plUseFriendlyUrls.Text">
+    <value xml:space="preserve">SEO-freundliche URLs verwenden?</value>
+  </data>
+  <data name="underscoreCharacter.Text">
+    <value xml:space="preserve">"_" (z.B. Seite_Titel)</value>
+  </data>
+</root>
